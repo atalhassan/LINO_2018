@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tafweej</string>
+    <string name="enter_campaign_id">Enter campaign ID</string>
+    <string name="enter_phone_number">Contact number</string>
+    <string name="enter_verification_number">Enter verification number</string>
+    <string name="start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="verify">Verify</string>
+    <string name="loggedIn">You are logged in</string>
+    <string name="wrong_verification">wrong verification</string>
+    <string name="wrong_credentials">wrong credentials</string>
+    <string name="enable_gps_wifi">Please Enable Location</string>
+</resources>

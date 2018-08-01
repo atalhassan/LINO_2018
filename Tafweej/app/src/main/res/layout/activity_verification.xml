@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".VerificationActivity">
+
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+
+       <EditText
+           android:id="@+id/editTextVerificationId"
+           android:layout_width="300dp"
+           android:layout_height="wrap_content"
+           android:layout_alignParentTop="true"
+           android:layout_centerHorizontal="true"
+           android:layout_gravity="center_horizontal|center_vertical|center"
+           android:layout_marginBottom="10dp"
+           android:layout_marginTop="189dp"
+           android:ems="10"
+           android:gravity="center"
+           android:hint="@string/enter_verification_number"
+           android:inputType="number"
+           android:textStyle="bold"
+           android:theme="@style/MyEditText" />
+
+    <Button
+        android:id="@+id/buttonVerify"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="208dp"
+        android:layout_gravity="center_horizontal|center_vertical|center"
+        android:background="@color/green"
+        android:text="@string/verify"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+   </LinearLayout>
+</RelativeLayout>
