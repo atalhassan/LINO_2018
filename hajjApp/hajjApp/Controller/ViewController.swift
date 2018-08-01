@@ -59,8 +59,9 @@ class ViewController: UIViewController {
         Database.database().reference().child("Campaign").child(campaign_id).observeSingleEvent(of: .value) { (snapashot) in
             guard let data = snapashot.value as? [String: Any] else {return}
             
-            let newCampaign = Campaign(uid: snapashot.key, dictionary: data)
-            print(newCampaign)
+            let newCampaign = Campaign(uid: snapashot.key, crowd_id: "", dictionary: data)
+            
+            
             if newCampaign.number == number && newCampaign.uid == campaign_id {
                 
                 Auth.auth().signInAnonymously(completion: { (authResult, error) in
@@ -70,14 +71,24 @@ class ViewController: UIViewController {
                     }
                     
                     
-                    var userDefaults = UserDefaults.standard
+                    
+                    let newCrowd = Database.database().reference().child("Crowd").childByAutoId()
+                    
+                    let _newCampaign = Campaign(uid: snapashot.key, crowd_id: newCrowd.key, dictionary: data)
+                    
+                    
+                    let crowdData = ["campaign_id" : newCampaign.uid]
+                    newCrowd.setValue(crowdData)
+                    
+                    
+                    let userDefaults = UserDefaults.standard
                     let encodedData: Data = NSKeyedArchiver.archivedData(withRootObject: newCampaign)
                     userDefaults.set(encodedData, forKey: "campaign")
                     userDefaults.synchronize()
                     
                     DispatchQueue.main.async {
                         let homeVC = HomeVC()
-                        homeVC.campaign = newCampaign
+                        homeVC.campaign = _newCampaign
                         self.navigationController?.pushViewController(homeVC, animated: true)
                     }
                     

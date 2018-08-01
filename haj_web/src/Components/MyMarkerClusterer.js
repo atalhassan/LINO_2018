@@ -1,29 +1,47 @@
 import React, { Component } from 'react';
 import MyMarker from './MyMarker'
+import { db } from '../firebase'
 const { MarkerClusterer } = require("react-google-maps/lib/components/addons/MarkerClusterer");
 
 
+
 class MyMarkerClusterer extends Component {
-  constructor(props) {
-    super(props);
+
+    constructor(props) {
+      super(props);
+      this.state = { crowds : {} };
+    }
+
+
+    componentDidMount() {
+      // Fetch all Mfwejeen from database
+      db.fetchMfwejeen().once('value').then((snapshot) => {
+        let crowds = snapshot.val()
+        this.setState({crowds})
+      });
 
   }
 
   render() {
+    console.log(this.state.crowds);
     return (
       <MarkerClusterer
       averageCenter
-      defaultMaxZoom={16}
       enableRetinaIcons
-      gridSize={10}
+      gridSize={60}
       >
-      {
-        Object.keys(this.props.crowds).map((key,i) => (
+      {Object.keys(this.state.crowds).length === 0
+        ? <div></div>
+        :
+        Object.keys(this.state.crowds).map((key,i) => (
           <MyMarker
             key={i}
-            crowd={this.props.crowds[key]}
-          />
-        ))
+            campaign_id={key}
+            index={i}
+            crowd={this.state.crowds[key].location !== undefined ? this.state.crowds[key] : []}
+            /> )
+
+        )
       }
 
       </MarkerClusterer>

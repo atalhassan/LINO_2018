@@ -15,15 +15,16 @@ class Campaign: NSObject, NSCoding {
     let email : String
     let Total_Hajji : String
     let name : String
+    let crowd_id : String
     
-    
-    init(uid :String, dictionary: [String:Any]) {
+    init(uid :String, crowd_id: String, dictionary: [String:Any]) {
         self.uid  = uid
         
         self.name = dictionary["name"] as? String ?? ""
         self.email = dictionary["email"] as? String ?? ""
         self.Total_Hajji = dictionary["Total_Hajji"] as? String ?? ""
         self.number = dictionary["phone"] as? String ?? ""
+        self.crowd_id = crowd_id
     }
     
     required convenience init(coder aDecoder: NSCoder) {
@@ -32,8 +33,9 @@ class Campaign: NSObject, NSCoding {
         let email = aDecoder.decodeObject(forKey: "email") as! String
         let Total_Hajji = aDecoder.decodeObject(forKey: "Total_Hajji") as! String
         let number = aDecoder.decodeObject(forKey: "number") as! String
-        let dictionary = ["uid":uid, "name":name, "email":email, "Total_Hajji" : Total_Hajji, "number": number]
-        self.init(uid: uid, dictionary: dictionary)
+        let crowd_id = aDecoder.decodeObject(forKey: "crowd_id") as! String
+        let dictionary = ["uid":uid, "name":name, "email":email, "Total_Hajji" : Total_Hajji, "number": number ]
+        self.init(uid: uid, crowd_id: crowd_id, dictionary: dictionary)
     }
     
     func encode(with aCoder: NSCoder) {
@@ -42,6 +44,7 @@ class Campaign: NSObject, NSCoding {
         aCoder.encode(email, forKey: "email")
         aCoder.encode(Total_Hajji, forKey: "Total_Hajji")
         aCoder.encode(number, forKey: "number")
+        aCoder.encode(crowd_id, forKey: "crowd_id")
         
     }
 }
