@@ -1,39 +1,6 @@
 import React, { Component } from 'react';
-import {
-  withScriptjs,
-  withGoogleMap,
-  GoogleMap,
-  Marker,
-  Circle,
-} from "react-google-maps";
-import mapStyle from '../Styles/mapStyle.json'
+import MapView from './MapView'
 import { db } from '../firebase'
-const { MarkerClusterer } = require("react-google-maps/lib/components/addons/MarkerClusterer");
-
-// MARK:- initial GoogleMap
-const MapView = withScriptjs(withGoogleMap(props =>
-  <GoogleMap
-  defaultZoom={14}
-  defaultOptions={{ styles: mapStyle }}
-  defaultCenter={{ lat: 21.411205, lng: 39.892393 }}
-  >
-  <MarkerClusterer
-    averageCenter
-    enableRetinaIcons
-    gridSize={60}
-  >
-  {
-    Object.keys(props.crowds).map((key,i) => (
-      <Marker
-        key={i}
-        position={{lat: props.crowds[key].location.lat, lng: props.crowds[key].location.lng}}
-      />
-    ))
-  }
-
-  </MarkerClusterer>
-  </GoogleMap>
-));
 
 
 
@@ -68,29 +35,28 @@ class Map extends Component {
       let crowd = snapshot.val()
       this.setState((prevState, props) => {
         return {crowds : {
-                        ...prevState.crowds,
-                        [snapshot.key]: crowd
-                        }
-              };
-      })
+          ...prevState.crowds,
+          [snapshot.key]: crowd
+        }
+      };
+    })
+  });
+}
 
-    });
-  }
+render() {
 
-  render() {
-
-    return (
-      <div className="Map">
+  return (
+    <div className="Map">
       <MapView
-      crowds={this.state.crowds}
-      googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvmS_5SD6-OsItntOs_dnLFcjbi_lIsJ8"
-      loadingElement={<div style={{ height: `100%` }} />}
-      containerElement={<div style={{ height: `100vh` }} />}
-      mapElement={<div style={{ height: `100%` }} />}
+        crowds={this.state.crowds}
+        googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvmS_5SD6-OsItntOs_dnLFcjbi_lIsJ8"
+        loadingElement={<div style={{ height: `100%` }} />}
+        containerElement={<div style={{ height: `100vh` }} />}
+        mapElement={<div style={{ height: `100%` }} />}
       />
-      </div>
-    );
-  }
+    </div>
+  );
+}
 }
 
 export default Map;
