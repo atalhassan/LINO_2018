@@ -12,3 +12,4 @@ let WIDTH : CGFloat = UIScreen.main.bounds.width
 
 
 let Green = UIColor(rgb: 0x008000)
+let Red = UIColor(rgb: 0xD50000)

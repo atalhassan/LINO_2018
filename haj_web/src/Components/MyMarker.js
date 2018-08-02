@@ -12,9 +12,9 @@ class MyMarker extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      showInfoIndex : -1
+      showInfoIndex : -1,
+      ...props
     }
-
   }
 
 
@@ -23,13 +23,22 @@ class MyMarker extends Component {
         db.fetchMfwejeen().child(this.props.campaign_id).on('child_changed', (snapshot) => {
           let crowd = snapshot.val()
 
-          this.props.crowd.location.lat = crowd.lat
-          this.props.crowd.location.lng = crowd.lng
+          if (crowd.lat) {
+            this.setState((prevState, props) => {
+              return {"crowd":  {...prevState.crowd, "location": crowd}};
+            });
+            // this.setState({"crowd": {"location": crowd}})
+          } else if  (!isNaN(crowd))  {
+            this.setState((prevState, props) => {
+              return {"crowd": {...prevState.crowd , "numberOfPeople": crowd}};
+            });
+            // this.setState({"crowd": {"numberOfPeople": crowd}})
+          } else if (crowd) {
+            this.setState((prevState, props) => {
+              return {"crowd": {...prevState.crowd , "status": crowd}};
+            });
+          }
 
-          this.setState((prevState, props) => {
-            return {[snapshot.key]: crowd
-          };
-        })
       });
     }
 
@@ -46,14 +55,25 @@ class MyMarker extends Component {
   }
 
   render() {
-
+    console.log(this.state.crowd);
     if (this.props.crowd.location=== undefined) {
       return (<div></div>);
     }
     return (
+
       <Marker
       onClick={()=>{ this.showInfo(this.props.index)} }
-      position={{lat: this.props.crowd.location.lat, lng: this.props.crowd.location.lng}}
+      position={{lat: this.state.crowd.location.lat, lng: this.state.crowd.location.lng}}
+      options={{
+            icon: {
+                path: window.google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+                scale: isNaN(this.state.crowd.numberOfPeople) ?  4 :  Math.min(3 +  (parseInt(this.state.crowd.numberOfPeople) / 30),15) ,
+                fillColor: this.state.crowd.status === "Active" ? 'blue' : 'red',
+                fillOpacity: 1,
+                strokeWeight: 1,
+                rotation: this.state.crowd.location.heading === undefined ?  0 :  this.state.crowd.location.heading,
+            },
+            }}
       >
       { (this.state.showInfoIndex == this.props.index ) &&
           <InfoWindow  onCloseClick={this.onToggleOpen}>

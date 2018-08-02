@@ -26,10 +26,18 @@ class ViewController: UIViewController {
         return tv
     }()
     
+    let logo : UIImageView = {
+        let iv = UIImageView()
+        iv.contentMode = .scaleAspectFit
+        iv.image = #imageLiteral(resourceName: "Tafweej")
+        return iv
+    }()
+    
     let phonenumberInput : SkyFloatingLabelTextField = {
         let tv = SkyFloatingLabelTextField()
         tv.placeholder = "Number"
         tv.title = "Number"
+        tv.keyboardType = .numberPad
         tv.selectedLineColor = Green
         tv.selectedLineHeight = 1
         tv.selectedTitleColor = Green
@@ -82,13 +90,13 @@ class ViewController: UIViewController {
                     
                     
                     let userDefaults = UserDefaults.standard
-                    let encodedData: Data = NSKeyedArchiver.archivedData(withRootObject: newCampaign)
+                    let encodedData: Data = NSKeyedArchiver.archivedData(withRootObject: _newCampaign)
                     userDefaults.set(encodedData, forKey: "campaign")
                     userDefaults.synchronize()
                     
                     DispatchQueue.main.async {
                         let homeVC = HomeVC()
-                        homeVC.campaign = _newCampaign
+                        HomeVC.campaign = _newCampaign
                         self.navigationController?.pushViewController(homeVC, animated: true)
                     }
                     
@@ -111,19 +119,31 @@ class ViewController: UIViewController {
         
         view.backgroundColor = .white
         
+        
+        let tap = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        view.addGestureRecognizer(tap)
+        
         setupViews()
     }
     
     
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+    }
+    
     fileprivate func setupViews() {
+        
         
         let stackView = UIStackView(arrangedSubviews: [campaignInput, phonenumberInput, loginBtn])
         stackView.axis = .vertical
         stackView.distribution = .fillEqually
         stackView.spacing = 8
         
+        view.addSubview(logo)
+        
         view.addSubview(stackView)
         
+        logo.anchor(top: view.safeAreaLayoutGuide.topAnchor, left: view.safeAreaLayoutGuide.leftAnchor, bottom: stackView.topAnchor, right: view.rightAnchor, paddingTop: 0, paddingLeft: 0, paddingBottom: 20, paddingRight: 0, width: 0, height: 0)
         stackView.anchor(top: nil, left: nil, bottom: nil, right: nil, paddingTop: 0, paddingLeft: 0, paddingBottom: 0, paddingRight: 0, width: WIDTH - 16, height: 166)
         
         stackView.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
