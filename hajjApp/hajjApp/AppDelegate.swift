@@ -99,14 +99,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Database.database().reference().child("Crowd").child(crowd_id).child("location").updateChildValues(data)
     }
     
-    func updateDatabaseLocation(location: CLLocation)  {
+    func updateDatabaseLocation(location: CLLocation, distance: CLLocationSpeed = 0)  {
         
-        let data : [String: Any] = ["lat": location.coordinate.latitude, "lng": location.coordinate.longitude, "timestamp": ServerValue.timestamp()]
+        let data : [String: Any] = ["lat": location.coordinate.latitude, "lng": location.coordinate.longitude, "timestamp": ServerValue.timestamp(), "distanceMoved": distance]
         guard let crowd_id = HomeVC.campaign?.crowd_id else {return}
         if crowd_id.isEmpty {
             return
         }
-        print(location.coordinate)
+        
         Database.database().reference().child("Crowd").child(crowd_id).child("location").updateChildValues(data)
     }
     
@@ -116,22 +116,31 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 extension AppDelegate : CLLocationManagerDelegate {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         for newLocation in locations {
-
             let howRecent = newLocation.timestamp.timeIntervalSinceNow
-            print(newLocation.horizontalAccuracy)
-            guard newLocation.horizontalAccuracy < 1000 && abs(howRecent) < 10  else { continue }
-
-            updateDatabaseLocation(location: newLocation)
+//            guard newLocation.horizontalAccuracy < 1000 && abs(howRecent) < 10  else { continue }
+            
+            if let oldLocation = HomeVC.currentLocation  {
+                
+                let distance = newLocation.distance(from: oldLocation)
+                updateDatabaseLocation(location: newLocation, distance: distance)
+                HomeVC.currentLocation = newLocation
+                
+            } else {
+                
+                updateDatabaseLocation(location: newLocation)
+                HomeVC.currentLocation = newLocation
+            }
 
         }
     }
     
     
     func locationManager(_ manager: CLLocationManager, didUpdateHeading newHeading: CLHeading) {
-        print(newHeading.trueHeading)
+        
         let howRecent = newHeading.timestamp.timeIntervalSinceNow
         guard newHeading.headingAccuracy < 30 && abs(howRecent) < 10  else { return }
         updateDatabaseHeading(heading: newHeading)
+        
     }
     
     

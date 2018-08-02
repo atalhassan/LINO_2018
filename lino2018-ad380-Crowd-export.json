@@ -1,0 +1,5599 @@
+{
+  "-LIu5vYKFZuUem-lMUlT" : {
+    "location" : {
+      "heading" : 116,
+      "lat" : 21.61735638512449,
+      "lng" : 39.15627197366129,
+      "timestamp" : 1533235362340
+    },
+    "numberOfPeople" : "190"
+  },
+  "0-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 141,
+      "lat" : 21.418988,
+      "lng" : 39.881529,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 271,
+    "status" : "Active"
+  },
+  "1-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 29,
+      "lat" : 21.414786999999997,
+      "lng" : 39.894238,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 246,
+    "status" : "inActive"
+  },
+  "10-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 15,
+      "lat" : 21.413421999999997,
+      "lng" : 39.889474,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 184,
+    "status" : "Active"
+  },
+  "100-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 222,
+      "lat" : 21.416259999999998,
+      "lng" : 39.889415,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 219,
+    "status" : "Active"
+  },
+  "101-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 250,
+      "lat" : 21.41661,
+      "lng" : 39.890811,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 196,
+    "status" : "inActive"
+  },
+  "102-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 180,
+      "lat" : 21.406181,
+      "lng" : 39.897849,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 147,
+    "status" : "Active"
+  },
+  "103-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 351,
+      "lat" : 21.414873,
+      "lng" : 39.895709000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 152,
+    "status" : "inActive"
+  },
+  "104-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 281,
+      "lat" : 21.407453,
+      "lng" : 39.884916000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 208,
+    "status" : "Active"
+  },
+  "105-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 257,
+      "lat" : 21.417430999999997,
+      "lng" : 39.882667000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 249,
+    "status" : "inActive"
+  },
+  "106-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 161,
+      "lat" : 21.407389,
+      "lng" : 39.886043,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 142,
+    "status" : "Active"
+  },
+  "107-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 236,
+      "lat" : 21.407985,
+      "lng" : 39.892292000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 255,
+    "status" : "inActive"
+  },
+  "108-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 83,
+      "lat" : 21.416273999999998,
+      "lng" : 39.883643,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 255,
+    "status" : "Active"
+  },
+  "109-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 18,
+      "lat" : 21.417438999999998,
+      "lng" : 39.886647,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 131,
+    "status" : "inActive"
+  },
+  "11-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 44,
+      "lat" : 21.409568999999998,
+      "lng" : 39.890378000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 134,
+    "status" : "inActive"
+  },
+  "110-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 155,
+      "lat" : 21.406516,
+      "lng" : 39.887176000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 175,
+    "status" : "Active"
+  },
+  "111-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 270,
+      "lat" : 21.416383,
+      "lng" : 39.898446,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 221,
+    "status" : "inActive"
+  },
+  "112-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 112,
+      "lat" : 21.404497,
+      "lng" : 39.89786,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "Active"
+  },
+  "113-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 202,
+      "lat" : 21.419742,
+      "lng" : 39.881215000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 135,
+    "status" : "inActive"
+  },
+  "114-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 167,
+      "lat" : 21.416634,
+      "lng" : 39.893882000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 75,
+    "status" : "Active"
+  },
+  "115-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 323,
+      "lat" : 21.403582999999998,
+      "lng" : 39.888563000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 86,
+    "status" : "inActive"
+  },
+  "116-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 267,
+      "lat" : 21.413358,
+      "lng" : 39.882740000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 10,
+    "status" : "Active"
+  },
+  "117-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 354,
+      "lat" : 21.419112,
+      "lng" : 39.892468,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 208,
+    "status" : "inActive"
+  },
+  "118-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 242,
+      "lat" : 21.406048,
+      "lng" : 39.880664,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 127,
+    "status" : "Active"
+  },
+  "119-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 118,
+      "lat" : 21.409920999999997,
+      "lng" : 39.898508,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 273,
+    "status" : "inActive"
+  },
+  "12-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 147,
+      "lat" : 21.418315,
+      "lng" : 39.890284,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 130,
+    "status" : "Active"
+  },
+  "120-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 88,
+      "lat" : 21.414876,
+      "lng" : 39.881714,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 256,
+    "status" : "Active"
+  },
+  "121-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 205,
+      "lat" : 21.405897,
+      "lng" : 39.899929,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 211,
+    "status" : "inActive"
+  },
+  "122-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 4,
+      "lat" : 21.416929,
+      "lng" : 39.890365,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 230,
+    "status" : "Active"
+  },
+  "123-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 255,
+      "lat" : 21.402146,
+      "lng" : 39.895664000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 228,
+    "status" : "inActive"
+  },
+  "124-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 264,
+      "lat" : 21.408587999999998,
+      "lng" : 39.886609,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 141,
+    "status" : "Active"
+  },
+  "125-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 124,
+      "lat" : 21.417545999999998,
+      "lng" : 39.889458000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 250,
+    "status" : "inActive"
+  },
+  "126-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 319,
+      "lat" : 21.418779999999998,
+      "lng" : 39.881176,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 36,
+    "status" : "Active"
+  },
+  "127-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 119,
+      "lat" : 21.403114,
+      "lng" : 39.890195000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 80,
+    "status" : "inActive"
+  },
+  "128-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.402404999999998,
+      "lng" : 39.899878,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 60,
+    "status" : "Active"
+  },
+  "129-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 75,
+      "lat" : 21.419217999999997,
+      "lng" : 39.882768000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 21,
+    "status" : "inActive"
+  },
+  "13-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 51,
+      "lat" : 21.402911999999997,
+      "lng" : 39.899374,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 175,
+    "status" : "inActive"
+  },
+  "130-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 234,
+      "lat" : 21.415858999999998,
+      "lng" : 39.894146,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 275,
+    "status" : "Active"
+  },
+  "131-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 260,
+      "lat" : 21.403838999999998,
+      "lng" : 39.889027000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 192,
+    "status" : "inActive"
+  },
+  "132-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 179,
+      "lat" : 21.405912999999998,
+      "lng" : 39.882556,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 55,
+    "status" : "Active"
+  },
+  "133-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 38,
+      "lat" : 21.416083999999998,
+      "lng" : 39.881435,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 196,
+    "status" : "inActive"
+  },
+  "134-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 14,
+      "lat" : 21.413615999999998,
+      "lng" : 39.881949000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 50,
+    "status" : "Active"
+  },
+  "135-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 232,
+      "lat" : 21.407411999999997,
+      "lng" : 39.891848,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 284,
+    "status" : "inActive"
+  },
+  "136-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 105,
+      "lat" : 21.416534,
+      "lng" : 39.894881000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 14,
+    "status" : "Active"
+  },
+  "137-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 330,
+      "lat" : 21.401677,
+      "lng" : 39.89068,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 132,
+    "status" : "inActive"
+  },
+  "138-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 331,
+      "lat" : 21.402696,
+      "lng" : 39.88028,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 296,
+    "status" : "Active"
+  },
+  "139-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 241,
+      "lat" : 21.410536999999998,
+      "lng" : 39.885311,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 249,
+    "status" : "inActive"
+  },
+  "14-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 28,
+      "lat" : 21.408784999999998,
+      "lng" : 39.899190000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 43,
+    "status" : "Active"
+  },
+  "140-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 50,
+      "lat" : 21.404249999999998,
+      "lng" : 39.898431,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 64,
+    "status" : "Active"
+  },
+  "141-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 123,
+      "lat" : 21.401639,
+      "lng" : 39.896812000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 187,
+    "status" : "inActive"
+  },
+  "142-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 205,
+      "lat" : 21.418833999999997,
+      "lng" : 39.889176,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 159,
+    "status" : "Active"
+  },
+  "143-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.403198,
+      "lng" : 39.889484,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 123,
+    "status" : "inActive"
+  },
+  "144-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 217,
+      "lat" : 21.404256999999998,
+      "lng" : 39.896415000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 75,
+    "status" : "Active"
+  },
+  "145-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 115,
+      "lat" : 21.415710999999998,
+      "lng" : 39.893269000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 13,
+    "status" : "inActive"
+  },
+  "146-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 305,
+      "lat" : 21.417263,
+      "lng" : 39.886791,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 64,
+    "status" : "Active"
+  },
+  "147-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 169,
+      "lat" : 21.415373,
+      "lng" : 39.898024,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 195,
+    "status" : "inActive"
+  },
+  "148-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 115,
+      "lat" : 21.402296,
+      "lng" : 39.897466,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 171,
+    "status" : "Active"
+  },
+  "149-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 215,
+      "lat" : 21.412373,
+      "lng" : 39.884579,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 200,
+    "status" : "inActive"
+  },
+  "15-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 216,
+      "lat" : 21.417278999999997,
+      "lng" : 39.89714,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 51,
+    "status" : "inActive"
+  },
+  "150-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 17,
+      "lat" : 21.411668,
+      "lng" : 39.89833,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 111,
+    "status" : "Active"
+  },
+  "151-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 339,
+      "lat" : 21.412609,
+      "lng" : 39.899155,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 197,
+    "status" : "inActive"
+  },
+  "152-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 140,
+      "lat" : 21.408019999999997,
+      "lng" : 39.888968000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 135,
+    "status" : "Active"
+  },
+  "153-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 350,
+      "lat" : 21.400927,
+      "lng" : 39.896044,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 69,
+    "status" : "inActive"
+  },
+  "154-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 221,
+      "lat" : 21.405329,
+      "lng" : 39.881235000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 194,
+    "status" : "Active"
+  },
+  "155-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 63,
+      "lat" : 21.419527,
+      "lng" : 39.896213,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 268,
+    "status" : "inActive"
+  },
+  "156-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 286,
+      "lat" : 21.411420999999997,
+      "lng" : 39.886473,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 202,
+    "status" : "Active"
+  },
+  "157-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 355,
+      "lat" : 21.409969,
+      "lng" : 39.889258000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 185,
+    "status" : "inActive"
+  },
+  "158-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 145,
+      "lat" : 21.405784999999998,
+      "lng" : 39.895516,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 143,
+    "status" : "Active"
+  },
+  "159-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 82,
+      "lat" : 21.403439,
+      "lng" : 39.88056,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 151,
+    "status" : "inActive"
+  },
+  "16-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 207,
+      "lat" : 21.403758,
+      "lng" : 39.880660000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 55,
+    "status" : "Active"
+  },
+  "160-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 233,
+      "lat" : 21.412919,
+      "lng" : 39.881265,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 120,
+    "status" : "Active"
+  },
+  "161-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 245,
+      "lat" : 21.41491,
+      "lng" : 39.896688000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 83,
+    "status" : "inActive"
+  },
+  "162-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 327,
+      "lat" : 21.406149,
+      "lng" : 39.888828000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 60,
+    "status" : "Active"
+  },
+  "163-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 43,
+      "lat" : 21.418467999999997,
+      "lng" : 39.888649,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 191,
+    "status" : "inActive"
+  },
+  "164-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 183,
+      "lat" : 21.41413,
+      "lng" : 39.897698000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 91,
+    "status" : "Active"
+  },
+  "165-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 358,
+      "lat" : 21.405329,
+      "lng" : 39.889087,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 243,
+    "status" : "inActive"
+  },
+  "166-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 348,
+      "lat" : 21.400796,
+      "lng" : 39.897736,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 65,
+    "status" : "Active"
+  },
+  "167-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 224,
+      "lat" : 21.410314999999997,
+      "lng" : 39.886549,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 270,
+    "status" : "inActive"
+  },
+  "168-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 282,
+      "lat" : 21.405444,
+      "lng" : 39.880754,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 153,
+    "status" : "Active"
+  },
+  "169-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 104,
+      "lat" : 21.407193999999997,
+      "lng" : 39.888314,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 125,
+    "status" : "inActive"
+  },
+  "17-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 302,
+      "lat" : 21.41415,
+      "lng" : 39.892936000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 217,
+    "status" : "inActive"
+  },
+  "170-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 215,
+      "lat" : 21.405569999999997,
+      "lng" : 39.880169,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 174,
+    "status" : "Active"
+  },
+  "171-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 315,
+      "lat" : 21.401560999999997,
+      "lng" : 39.898519,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 273,
+    "status" : "inActive"
+  },
+  "172-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 166,
+      "lat" : 21.410156999999998,
+      "lng" : 39.892582000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 109,
+    "status" : "Active"
+  },
+  "173-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 246,
+      "lat" : 21.404066999999998,
+      "lng" : 39.887108000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 131,
+    "status" : "inActive"
+  },
+  "174-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 275,
+      "lat" : 21.404249999999998,
+      "lng" : 39.882812,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 47,
+    "status" : "Active"
+  },
+  "175-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 340,
+      "lat" : 21.417392999999997,
+      "lng" : 39.891847000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 250,
+    "status" : "inActive"
+  },
+  "176-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 230,
+      "lat" : 21.418706999999998,
+      "lng" : 39.885387,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 240,
+    "status" : "Active"
+  },
+  "177-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 288,
+      "lat" : 21.400059,
+      "lng" : 39.887281,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 174,
+    "status" : "inActive"
+  },
+  "178-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 180,
+      "lat" : 21.40328,
+      "lng" : 39.896865000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 210,
+    "status" : "Active"
+  },
+  "179-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 229,
+      "lat" : 21.412084999999998,
+      "lng" : 39.891911,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 286,
+    "status" : "inActive"
+  },
+  "18-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 295,
+      "lat" : 21.41856,
+      "lng" : 39.896639,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 277,
+    "status" : "Active"
+  },
+  "180-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 116,
+      "lat" : 21.419237,
+      "lng" : 39.881047,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 137,
+    "status" : "Active"
+  },
+  "181-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 223,
+      "lat" : 21.418996,
+      "lng" : 39.89159,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 129,
+    "status" : "inActive"
+  },
+  "182-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 173,
+      "lat" : 21.41647,
+      "lng" : 39.899771,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 185,
+    "status" : "Active"
+  },
+  "183-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 192,
+      "lat" : 21.414702,
+      "lng" : 39.899948,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 80,
+    "status" : "inActive"
+  },
+  "184-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 40,
+      "lat" : 21.406495999999997,
+      "lng" : 39.891249,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 293,
+    "status" : "Active"
+  },
+  "185-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 95,
+      "lat" : 21.412813,
+      "lng" : 39.897266,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "inActive"
+  },
+  "186-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 241,
+      "lat" : 21.401446999999997,
+      "lng" : 39.885537,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 287,
+    "status" : "Active"
+  },
+  "187-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 62,
+      "lat" : 21.405714,
+      "lng" : 39.886283000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 120,
+    "status" : "inActive"
+  },
+  "188-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 324,
+      "lat" : 21.408905999999998,
+      "lng" : 39.88067,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 89,
+    "status" : "Active"
+  },
+  "189-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 354,
+      "lat" : 21.40495,
+      "lng" : 39.899683,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 92,
+    "status" : "inActive"
+  },
+  "19-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 40,
+      "lat" : 21.418301999999997,
+      "lng" : 39.895949,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 84,
+    "status" : "inActive"
+  },
+  "190-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 204,
+      "lat" : 21.418418,
+      "lng" : 39.895952,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 234,
+    "status" : "Active"
+  },
+  "191-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 289,
+      "lat" : 21.401010999999997,
+      "lng" : 39.88891,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 242,
+    "status" : "inActive"
+  },
+  "192-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 59,
+      "lat" : 21.400547999999997,
+      "lng" : 39.897683,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 251,
+    "status" : "Active"
+  },
+  "193-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 319,
+      "lat" : 21.416559999999997,
+      "lng" : 39.890881,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 82,
+    "status" : "inActive"
+  },
+  "194-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 190,
+      "lat" : 21.414144,
+      "lng" : 39.896268,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 183,
+    "status" : "Active"
+  },
+  "195-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 186,
+      "lat" : 21.400244999999998,
+      "lng" : 39.886072000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 38,
+    "status" : "inActive"
+  },
+  "196-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 66,
+      "lat" : 21.405423,
+      "lng" : 39.896088000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 197,
+    "status" : "Active"
+  },
+  "197-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 130,
+      "lat" : 21.401729999999997,
+      "lng" : 39.886967000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 59,
+    "status" : "inActive"
+  },
+  "198-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 169,
+      "lat" : 21.419814,
+      "lng" : 39.897182,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 11,
+    "status" : "Active"
+  },
+  "199-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 247,
+      "lat" : 21.408617,
+      "lng" : 39.886081000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 191,
+    "status" : "inActive"
+  },
+  "2-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 261,
+      "lat" : 21.415177,
+      "lng" : 39.896012000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 251,
+    "status" : "Active"
+  },
+  "20-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 10,
+      "lat" : 21.415658999999998,
+      "lng" : 39.898669000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 41,
+    "status" : "Active"
+  },
+  "200-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 126,
+      "lat" : 21.418573,
+      "lng" : 39.880013000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 278,
+    "status" : "Active"
+  },
+  "201-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 275,
+      "lat" : 21.414215,
+      "lng" : 39.896785,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 169,
+    "status" : "inActive"
+  },
+  "202-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 171,
+      "lat" : 21.400563,
+      "lng" : 39.882851,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 234,
+    "status" : "Active"
+  },
+  "203-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 360,
+      "lat" : 21.412298,
+      "lng" : 39.888809,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 230,
+    "status" : "inActive"
+  },
+  "204-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 323,
+      "lat" : 21.406305999999997,
+      "lng" : 39.892996000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 138,
+    "status" : "Active"
+  },
+  "205-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 304,
+      "lat" : 21.405209,
+      "lng" : 39.89687,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 107,
+    "status" : "inActive"
+  },
+  "206-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 329,
+      "lat" : 21.403730999999997,
+      "lng" : 39.887995000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 232,
+    "status" : "Active"
+  },
+  "207-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 182,
+      "lat" : 21.411092999999997,
+      "lng" : 39.885797000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 269,
+    "status" : "inActive"
+  },
+  "208-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 157,
+      "lat" : 21.41576,
+      "lng" : 39.882388000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 174,
+    "status" : "Active"
+  },
+  "209-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 80,
+      "lat" : 21.417381,
+      "lng" : 39.899899000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 136,
+    "status" : "inActive"
+  },
+  "21-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 91,
+      "lat" : 21.408597999999998,
+      "lng" : 39.892034,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 61,
+    "status" : "inActive"
+  },
+  "210-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 234,
+      "lat" : 21.409772999999998,
+      "lng" : 39.887139000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 63,
+    "status" : "Active"
+  },
+  "211-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 302,
+      "lat" : 21.405362999999998,
+      "lng" : 39.898707,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 58,
+    "status" : "inActive"
+  },
+  "212-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.418001999999998,
+      "lng" : 39.883888000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 67,
+    "status" : "Active"
+  },
+  "213-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 115,
+      "lat" : 21.418815,
+      "lng" : 39.891994000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 231,
+    "status" : "inActive"
+  },
+  "214-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 252,
+      "lat" : 21.418131,
+      "lng" : 39.883625,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 288,
+    "status" : "Active"
+  },
+  "215-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 316,
+      "lat" : 21.406537999999998,
+      "lng" : 39.883365000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 161,
+    "status" : "inActive"
+  },
+  "216-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 310,
+      "lat" : 21.414814999999997,
+      "lng" : 39.897378,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 94,
+    "status" : "Active"
+  },
+  "217-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 261,
+      "lat" : 21.419469999999997,
+      "lng" : 39.888947,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 257,
+    "status" : "inActive"
+  },
+  "218-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 213,
+      "lat" : 21.410035999999998,
+      "lng" : 39.885796,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 154,
+    "status" : "Active"
+  },
+  "219-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 97,
+      "lat" : 21.418768,
+      "lng" : 39.881767,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 31,
+    "status" : "inActive"
+  },
+  "22-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.40427,
+      "lng" : 39.890124,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 186,
+    "status" : "Active"
+  },
+  "220-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 228,
+      "lat" : 21.402604999999998,
+      "lng" : 39.898074,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 103,
+    "status" : "Active"
+  },
+  "221-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 317,
+      "lat" : 21.411914,
+      "lng" : 39.893446000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 78,
+    "status" : "inActive"
+  },
+  "222-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 285,
+      "lat" : 21.415688,
+      "lng" : 39.887032000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 122,
+    "status" : "Active"
+  },
+  "223-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 15,
+      "lat" : 21.405109999999997,
+      "lng" : 39.892997,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 148,
+    "status" : "inActive"
+  },
+  "224-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 100,
+      "lat" : 21.400699,
+      "lng" : 39.893654000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 289,
+    "status" : "Active"
+  },
+  "225-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 348,
+      "lat" : 21.412568999999998,
+      "lng" : 39.893713000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 279,
+    "status" : "inActive"
+  },
+  "226-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 304,
+      "lat" : 21.416719999999998,
+      "lng" : 39.891862,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 232,
+    "status" : "Active"
+  },
+  "227-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 171,
+      "lat" : 21.40702,
+      "lng" : 39.885812,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "inActive"
+  },
+  "228-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 20,
+      "lat" : 21.419912999999998,
+      "lng" : 39.886883000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 186,
+    "status" : "Active"
+  },
+  "229-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 89,
+      "lat" : 21.406453,
+      "lng" : 39.892369,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 240,
+    "status" : "inActive"
+  },
+  "23-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 88,
+      "lat" : 21.410201999999998,
+      "lng" : 39.883297000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 67,
+    "status" : "inActive"
+  },
+  "230-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 252,
+      "lat" : 21.400945999999998,
+      "lng" : 39.897744,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 226,
+    "status" : "Active"
+  },
+  "231-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 148,
+      "lat" : 21.418111999999997,
+      "lng" : 39.889463,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 114,
+    "status" : "inActive"
+  },
+  "232-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 298,
+      "lat" : 21.413166999999998,
+      "lng" : 39.895188000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 189,
+    "status" : "Active"
+  },
+  "233-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 263,
+      "lat" : 21.408789,
+      "lng" : 39.894886,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 44,
+    "status" : "inActive"
+  },
+  "234-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.405086999999998,
+      "lng" : 39.884849,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 89,
+    "status" : "Active"
+  },
+  "235-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 222,
+      "lat" : 21.409895,
+      "lng" : 39.894674,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 166,
+    "status" : "inActive"
+  },
+  "236-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 261,
+      "lat" : 21.403081999999998,
+      "lng" : 39.897856000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 147,
+    "status" : "Active"
+  },
+  "237-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 64,
+      "lat" : 21.417574,
+      "lng" : 39.885419000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 131,
+    "status" : "inActive"
+  },
+  "238-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 71,
+      "lat" : 21.401994,
+      "lng" : 39.892366,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 138,
+    "status" : "Active"
+  },
+  "239-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 131,
+      "lat" : 21.405637,
+      "lng" : 39.896412000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 175,
+    "status" : "inActive"
+  },
+  "24-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 239,
+      "lat" : 21.409518,
+      "lng" : 39.880852000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 34,
+    "status" : "Active"
+  },
+  "240-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 301,
+      "lat" : 21.406843,
+      "lng" : 39.898851,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 50,
+    "status" : "Active"
+  },
+  "241-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 43,
+      "lat" : 21.401588999999998,
+      "lng" : 39.892595,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 240,
+    "status" : "inActive"
+  },
+  "242-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 200,
+      "lat" : 21.416735,
+      "lng" : 39.886644000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 164,
+    "status" : "Active"
+  },
+  "243-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 84,
+      "lat" : 21.409104,
+      "lng" : 39.88007,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 209,
+    "status" : "inActive"
+  },
+  "244-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 127,
+      "lat" : 21.406430999999998,
+      "lng" : 39.891654,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 90,
+    "status" : "Active"
+  },
+  "245-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 352,
+      "lat" : 21.417638,
+      "lng" : 39.880943,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 48,
+    "status" : "inActive"
+  },
+  "246-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 151,
+      "lat" : 21.402092999999997,
+      "lng" : 39.897782,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 54,
+    "status" : "Active"
+  },
+  "247-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 269,
+      "lat" : 21.41868,
+      "lng" : 39.880722000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "inActive"
+  },
+  "248-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 196,
+      "lat" : 21.400222999999997,
+      "lng" : 39.896648000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 85,
+    "status" : "Active"
+  },
+  "249-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 36,
+      "lat" : 21.4166,
+      "lng" : 39.887504,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 263,
+    "status" : "inActive"
+  },
+  "25-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 152,
+      "lat" : 21.407822,
+      "lng" : 39.884967,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 70,
+    "status" : "inActive"
+  },
+  "250-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.405552,
+      "lng" : 39.880566,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 192,
+    "status" : "Active"
+  },
+  "251-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 41,
+      "lat" : 21.416231999999997,
+      "lng" : 39.895517000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 270,
+    "status" : "inActive"
+  },
+  "252-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 118,
+      "lat" : 21.406546,
+      "lng" : 39.896099,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 292,
+    "status" : "Active"
+  },
+  "253-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 167,
+      "lat" : 21.403249,
+      "lng" : 39.896956,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 88,
+    "status" : "inActive"
+  },
+  "254-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 143,
+      "lat" : 21.412159,
+      "lng" : 39.884190000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 245,
+    "status" : "Active"
+  },
+  "255-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 258,
+      "lat" : 21.401683,
+      "lng" : 39.890352,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 239,
+    "status" : "inActive"
+  },
+  "256-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 250,
+      "lat" : 21.412875999999997,
+      "lng" : 39.880424000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 221,
+    "status" : "Active"
+  },
+  "257-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 136,
+      "lat" : 21.409053999999998,
+      "lng" : 39.898851,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 160,
+    "status" : "inActive"
+  },
+  "258-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 293,
+      "lat" : 21.402981999999998,
+      "lng" : 39.894830000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "259-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 88,
+      "lat" : 21.401443999999998,
+      "lng" : 39.898941,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 94,
+    "status" : "inActive"
+  },
+  "26-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 116,
+      "lat" : 21.412654,
+      "lng" : 39.892226,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 105,
+    "status" : "Active"
+  },
+  "260-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 205,
+      "lat" : 21.405016999999997,
+      "lng" : 39.88429,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 296,
+    "status" : "Active"
+  },
+  "261-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 294,
+      "lat" : 21.414918999999998,
+      "lng" : 39.897753,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 183,
+    "status" : "inActive"
+  },
+  "262-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 222,
+      "lat" : 21.413057,
+      "lng" : 39.896423000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 87,
+    "status" : "Active"
+  },
+  "263-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 10,
+      "lat" : 21.409554,
+      "lng" : 39.889143000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 58,
+    "status" : "inActive"
+  },
+  "264-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 251,
+      "lat" : 21.414265999999998,
+      "lng" : 39.883815000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 16,
+    "status" : "Active"
+  },
+  "265-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 152,
+      "lat" : 21.407804,
+      "lng" : 39.896134,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 119,
+    "status" : "inActive"
+  },
+  "266-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 55,
+      "lat" : 21.407214999999997,
+      "lng" : 39.899268,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 166,
+    "status" : "Active"
+  },
+  "267-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 350,
+      "lat" : 21.409592999999997,
+      "lng" : 39.88056,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 118,
+    "status" : "inActive"
+  },
+  "268-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 165,
+      "lat" : 21.419234999999997,
+      "lng" : 39.887365,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 299,
+    "status" : "Active"
+  },
+  "269-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 334,
+      "lat" : 21.411101,
+      "lng" : 39.882627,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 120,
+    "status" : "inActive"
+  },
+  "27-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.418636,
+      "lng" : 39.885115000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 228,
+    "status" : "inActive"
+  },
+  "270-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 53,
+      "lat" : 21.413079,
+      "lng" : 39.888498000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 245,
+    "status" : "Active"
+  },
+  "271-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 101,
+      "lat" : 21.413753,
+      "lng" : 39.893904,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 172,
+    "status" : "inActive"
+  },
+  "272-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 44,
+      "lat" : 21.402859999999997,
+      "lng" : 39.880522,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 197,
+    "status" : "Active"
+  },
+  "273-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 143,
+      "lat" : 21.40825,
+      "lng" : 39.886517000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 190,
+    "status" : "inActive"
+  },
+  "274-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 60,
+      "lat" : 21.412224,
+      "lng" : 39.896919000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 158,
+    "status" : "Active"
+  },
+  "275-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 35,
+      "lat" : 21.403121,
+      "lng" : 39.885522,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 131,
+    "status" : "inActive"
+  },
+  "276-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 326,
+      "lat" : 21.411994,
+      "lng" : 39.882289,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 87,
+    "status" : "Active"
+  },
+  "277-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 14,
+      "lat" : 21.416358,
+      "lng" : 39.882001,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 284,
+    "status" : "inActive"
+  },
+  "278-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 257,
+      "lat" : 21.414861,
+      "lng" : 39.886943,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 241,
+    "status" : "Active"
+  },
+  "279-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 173,
+      "lat" : 21.416114,
+      "lng" : 39.885014000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 285,
+    "status" : "inActive"
+  },
+  "28-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 264,
+      "lat" : 21.418018999999997,
+      "lng" : 39.897857,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 123,
+    "status" : "Active"
+  },
+  "280-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 289,
+      "lat" : 21.405009,
+      "lng" : 39.890678,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 270,
+    "status" : "Active"
+  },
+  "281-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 78,
+      "lat" : 21.410413,
+      "lng" : 39.899678,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 91,
+    "status" : "inActive"
+  },
+  "282-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 190,
+      "lat" : 21.404467,
+      "lng" : 39.899454000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 13,
+    "status" : "Active"
+  },
+  "283-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 268,
+      "lat" : 21.416473999999997,
+      "lng" : 39.885347,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 182,
+    "status" : "inActive"
+  },
+  "284-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 13,
+      "lat" : 21.419141999999997,
+      "lng" : 39.880879,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 82,
+    "status" : "Active"
+  },
+  "285-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 83,
+      "lat" : 21.407422999999998,
+      "lng" : 39.891579,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "inActive"
+  },
+  "286-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 12,
+      "lat" : 21.411886,
+      "lng" : 39.88541,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 176,
+    "status" : "Active"
+  },
+  "287-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 118,
+      "lat" : 21.414779999999997,
+      "lng" : 39.882015,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 76,
+    "status" : "inActive"
+  },
+  "288-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 334,
+      "lat" : 21.419459999999997,
+      "lng" : 39.88727,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 149,
+    "status" : "Active"
+  },
+  "289-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.401856,
+      "lng" : 39.893655,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 188,
+    "status" : "inActive"
+  },
+  "29-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 342,
+      "lat" : 21.410026,
+      "lng" : 39.898627000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 286,
+    "status" : "inActive"
+  },
+  "290-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 154,
+      "lat" : 21.406679999999998,
+      "lng" : 39.885399,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 44,
+    "status" : "Active"
+  },
+  "291-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 103,
+      "lat" : 21.404871999999997,
+      "lng" : 39.891519,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 270,
+    "status" : "inActive"
+  },
+  "292-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 250,
+      "lat" : 21.415115999999998,
+      "lng" : 39.891473000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 79,
+    "status" : "Active"
+  },
+  "293-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 44,
+      "lat" : 21.401082,
+      "lng" : 39.895300000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 48,
+    "status" : "inActive"
+  },
+  "294-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 100,
+      "lat" : 21.413777,
+      "lng" : 39.884425,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 86,
+    "status" : "Active"
+  },
+  "295-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 357,
+      "lat" : 21.418215999999997,
+      "lng" : 39.892389,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 144,
+    "status" : "inActive"
+  },
+  "296-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 217,
+      "lat" : 21.416273999999998,
+      "lng" : 39.886089000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 222,
+    "status" : "Active"
+  },
+  "297-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 31,
+      "lat" : 21.411595,
+      "lng" : 39.893550000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 91,
+    "status" : "inActive"
+  },
+  "298-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 23,
+      "lat" : 21.411253,
+      "lng" : 39.897711,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 95,
+    "status" : "Active"
+  },
+  "299-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 16,
+      "lat" : 21.411841,
+      "lng" : 39.881468000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 58,
+    "status" : "inActive"
+  },
+  "3-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 172,
+      "lat" : 21.401804,
+      "lng" : 39.891612,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 103,
+    "status" : "inActive"
+  },
+  "30-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 105,
+      "lat" : 21.407857999999997,
+      "lng" : 39.895616000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 63,
+    "status" : "Active"
+  },
+  "300-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 144,
+      "lat" : 21.408564,
+      "lng" : 39.895927,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 185,
+    "status" : "Active"
+  },
+  "301-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 18,
+      "lat" : 21.405272999999998,
+      "lng" : 39.881034,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 261,
+    "status" : "inActive"
+  },
+  "302-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 55,
+      "lat" : 21.416092,
+      "lng" : 39.895613000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 245,
+    "status" : "Active"
+  },
+  "303-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 171,
+      "lat" : 21.419103,
+      "lng" : 39.890345,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 208,
+    "status" : "inActive"
+  },
+  "304-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 331,
+      "lat" : 21.400994999999998,
+      "lng" : 39.898961,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 70,
+    "status" : "Active"
+  },
+  "305-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 281,
+      "lat" : 21.407971,
+      "lng" : 39.892745000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 36,
+    "status" : "inActive"
+  },
+  "306-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 200,
+      "lat" : 21.404591,
+      "lng" : 39.885336,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 141,
+    "status" : "Active"
+  },
+  "307-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 242,
+      "lat" : 21.404327,
+      "lng" : 39.893534,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 30,
+    "status" : "inActive"
+  },
+  "308-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.411524999999997,
+      "lng" : 39.892351000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 276,
+    "status" : "Active"
+  },
+  "309-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 89,
+      "lat" : 21.405967999999998,
+      "lng" : 39.897108,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 101,
+    "status" : "inActive"
+  },
+  "31-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 134,
+      "lat" : 21.418492999999998,
+      "lng" : 39.896818,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 148,
+    "status" : "inActive"
+  },
+  "310-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 131,
+      "lat" : 21.400613,
+      "lng" : 39.898383,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 193,
+    "status" : "Active"
+  },
+  "311-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 153,
+      "lat" : 21.414403,
+      "lng" : 39.893860000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 263,
+    "status" : "inActive"
+  },
+  "312-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 11,
+      "lat" : 21.40432,
+      "lng" : 39.891962,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "313-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 328,
+      "lat" : 21.415678999999997,
+      "lng" : 39.891724,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 212,
+    "status" : "inActive"
+  },
+  "314-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 95,
+      "lat" : 21.418749,
+      "lng" : 39.898196000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 262,
+    "status" : "Active"
+  },
+  "315-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 221,
+      "lat" : 21.415884,
+      "lng" : 39.881840000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 65,
+    "status" : "inActive"
+  },
+  "316-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 231,
+      "lat" : 21.40975,
+      "lng" : 39.894292,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 117,
+    "status" : "Active"
+  },
+  "317-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 1,
+      "lat" : 21.410061,
+      "lng" : 39.886756000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 41,
+    "status" : "inActive"
+  },
+  "318-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 159,
+      "lat" : 21.410090999999998,
+      "lng" : 39.898059,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 213,
+    "status" : "Active"
+  },
+  "319-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 263,
+      "lat" : 21.410449,
+      "lng" : 39.898201,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 283,
+    "status" : "inActive"
+  },
+  "32-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 34,
+      "lat" : 21.419636999999998,
+      "lng" : 39.889234,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "320-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 137,
+      "lat" : 21.405312,
+      "lng" : 39.881868000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 160,
+    "status" : "Active"
+  },
+  "321-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 246,
+      "lat" : 21.411576,
+      "lng" : 39.894493000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 10,
+    "status" : "inActive"
+  },
+  "322-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 105,
+      "lat" : 21.408067,
+      "lng" : 39.894518000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 168,
+    "status" : "Active"
+  },
+  "323-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 34,
+      "lat" : 21.413289,
+      "lng" : 39.88638,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 289,
+    "status" : "inActive"
+  },
+  "324-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 78,
+      "lat" : 21.400914,
+      "lng" : 39.895351000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 222,
+    "status" : "Active"
+  },
+  "325-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 328,
+      "lat" : 21.402696,
+      "lng" : 39.890845000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 155,
+    "status" : "inActive"
+  },
+  "326-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 285,
+      "lat" : 21.418356,
+      "lng" : 39.882444,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 136,
+    "status" : "Active"
+  },
+  "327-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 7,
+      "lat" : 21.417087,
+      "lng" : 39.886767000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 62,
+    "status" : "inActive"
+  },
+  "328-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 274,
+      "lat" : 21.401702,
+      "lng" : 39.880623,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 26,
+    "status" : "Active"
+  },
+  "329-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 276,
+      "lat" : 21.410866,
+      "lng" : 39.889203,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 215,
+    "status" : "inActive"
+  },
+  "33-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 46,
+      "lat" : 21.415114,
+      "lng" : 39.894095,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 214,
+    "status" : "inActive"
+  },
+  "330-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 319,
+      "lat" : 21.418103,
+      "lng" : 39.883575,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 289,
+    "status" : "Active"
+  },
+  "331-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 306,
+      "lat" : 21.400285999999998,
+      "lng" : 39.882617,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 245,
+    "status" : "inActive"
+  },
+  "332-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 104,
+      "lat" : 21.414548,
+      "lng" : 39.897778,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 153,
+    "status" : "Active"
+  },
+  "333-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 330,
+      "lat" : 21.40104,
+      "lng" : 39.896774,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 150,
+    "status" : "inActive"
+  },
+  "334-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 359,
+      "lat" : 21.410411,
+      "lng" : 39.883578,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 202,
+    "status" : "Active"
+  },
+  "335-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 340,
+      "lat" : 21.413076,
+      "lng" : 39.888516,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 103,
+    "status" : "inActive"
+  },
+  "336-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 305,
+      "lat" : 21.400029999999997,
+      "lng" : 39.880304,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 185,
+    "status" : "Active"
+  },
+  "337-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 144,
+      "lat" : 21.417012999999997,
+      "lng" : 39.881254000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 236,
+    "status" : "inActive"
+  },
+  "338-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 272,
+      "lat" : 21.409626,
+      "lng" : 39.893766,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 196,
+    "status" : "Active"
+  },
+  "339-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 153,
+      "lat" : 21.410345999999997,
+      "lng" : 39.892036000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 191,
+    "status" : "inActive"
+  },
+  "34-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 167,
+      "lat" : 21.413674,
+      "lng" : 39.881102000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 197,
+    "status" : "Active"
+  },
+  "340-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 238,
+      "lat" : 21.402714999999997,
+      "lng" : 39.896811,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 57,
+    "status" : "Active"
+  },
+  "341-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 227,
+      "lat" : 21.416134,
+      "lng" : 39.895734000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 152,
+    "status" : "inActive"
+  },
+  "342-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 186,
+      "lat" : 21.416707,
+      "lng" : 39.891225000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 283,
+    "status" : "Active"
+  },
+  "343-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 100,
+      "lat" : 21.416545,
+      "lng" : 39.893997000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 149,
+    "status" : "inActive"
+  },
+  "344-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 299,
+      "lat" : 21.417462999999998,
+      "lng" : 39.888823,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 125,
+    "status" : "Active"
+  },
+  "345-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 271,
+      "lat" : 21.410178,
+      "lng" : 39.886712,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 25,
+    "status" : "inActive"
+  },
+  "346-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 148,
+      "lat" : 21.416854999999998,
+      "lng" : 39.897236,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 259,
+    "status" : "Active"
+  },
+  "347-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 295,
+      "lat" : 21.413531,
+      "lng" : 39.886369,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 124,
+    "status" : "inActive"
+  },
+  "348-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 359,
+      "lat" : 21.409900999999998,
+      "lng" : 39.885276000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 133,
+    "status" : "Active"
+  },
+  "349-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 307,
+      "lat" : 21.40157,
+      "lng" : 39.892687,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "inActive"
+  },
+  "35-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 355,
+      "lat" : 21.403477,
+      "lng" : 39.898199000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 37,
+    "status" : "inActive"
+  },
+  "350-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 310,
+      "lat" : 21.419815,
+      "lng" : 39.881499000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 171,
+    "status" : "Active"
+  },
+  "351-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 35,
+      "lat" : 21.417423999999997,
+      "lng" : 39.886698,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 203,
+    "status" : "inActive"
+  },
+  "352-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 230,
+      "lat" : 21.416566,
+      "lng" : 39.887894,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 226,
+    "status" : "Active"
+  },
+  "353-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 183,
+      "lat" : 21.410608,
+      "lng" : 39.881284,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 221,
+    "status" : "inActive"
+  },
+  "354-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 275,
+      "lat" : 21.401436,
+      "lng" : 39.887406000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 150,
+    "status" : "Active"
+  },
+  "355-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 234,
+      "lat" : 21.401443999999998,
+      "lng" : 39.889102,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 157,
+    "status" : "inActive"
+  },
+  "356-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 206,
+      "lat" : 21.401866,
+      "lng" : 39.895700000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 38,
+    "status" : "Active"
+  },
+  "357-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 218,
+      "lat" : 21.402206,
+      "lng" : 39.890297000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 146,
+    "status" : "inActive"
+  },
+  "358-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 58,
+      "lat" : 21.412494,
+      "lng" : 39.899582,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 225,
+    "status" : "Active"
+  },
+  "359-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 52,
+      "lat" : 21.419337,
+      "lng" : 39.880843000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 161,
+    "status" : "inActive"
+  },
+  "36-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 238,
+      "lat" : 21.400893999999997,
+      "lng" : 39.885200000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 168,
+    "status" : "Active"
+  },
+  "360-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 151,
+      "lat" : 21.408303,
+      "lng" : 39.883686000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 150,
+    "status" : "Active"
+  },
+  "361-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 176,
+      "lat" : 21.408496999999997,
+      "lng" : 39.896104,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 96,
+    "status" : "inActive"
+  },
+  "362-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 66,
+      "lat" : 21.415706999999998,
+      "lng" : 39.882515000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 295,
+    "status" : "Active"
+  },
+  "363-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 310,
+      "lat" : 21.403691,
+      "lng" : 39.898345,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 118,
+    "status" : "inActive"
+  },
+  "364-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 329,
+      "lat" : 21.404093999999997,
+      "lng" : 39.88257,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 44,
+    "status" : "Active"
+  },
+  "365-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 59,
+      "lat" : 21.410611999999997,
+      "lng" : 39.880787000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 259,
+    "status" : "inActive"
+  },
+  "366-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 278,
+      "lat" : 21.418747999999997,
+      "lng" : 39.897009000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 82,
+    "status" : "Active"
+  },
+  "367-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 210,
+      "lat" : 21.417164999999997,
+      "lng" : 39.89743,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 167,
+    "status" : "inActive"
+  },
+  "368-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 67,
+      "lat" : 21.407435,
+      "lng" : 39.897822000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 258,
+    "status" : "Active"
+  },
+  "369-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 235,
+      "lat" : 21.405303999999997,
+      "lng" : 39.896093,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 205,
+    "status" : "inActive"
+  },
+  "37-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 260,
+      "lat" : 21.419908,
+      "lng" : 39.894334,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 95,
+    "status" : "inActive"
+  },
+  "370-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 296,
+      "lat" : 21.409702999999997,
+      "lng" : 39.897386000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 81,
+    "status" : "Active"
+  },
+  "371-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 233,
+      "lat" : 21.408510999999997,
+      "lng" : 39.883797,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 36,
+    "status" : "inActive"
+  },
+  "372-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 94,
+      "lat" : 21.410956,
+      "lng" : 39.882443,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 134,
+    "status" : "Active"
+  },
+  "373-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 58,
+      "lat" : 21.414932999999998,
+      "lng" : 39.88022,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 79,
+    "status" : "inActive"
+  },
+  "374-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 357,
+      "lat" : 21.405697999999997,
+      "lng" : 39.888971000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 77,
+    "status" : "Active"
+  },
+  "375-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 15,
+      "lat" : 21.419249999999998,
+      "lng" : 39.889361,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 65,
+    "status" : "inActive"
+  },
+  "376-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 315,
+      "lat" : 21.402473999999998,
+      "lng" : 39.883068,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 280,
+    "status" : "Active"
+  },
+  "377-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 360,
+      "lat" : 21.412014,
+      "lng" : 39.882109,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 32,
+    "status" : "inActive"
+  },
+  "378-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 238,
+      "lat" : 21.401386,
+      "lng" : 39.899462,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 171,
+    "status" : "Active"
+  },
+  "379-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 195,
+      "lat" : 21.417191,
+      "lng" : 39.891763000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 298,
+    "status" : "inActive"
+  },
+  "38-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 262,
+      "lat" : 21.408680999999998,
+      "lng" : 39.887436,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 99,
+    "status" : "Active"
+  },
+  "380-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 147,
+      "lat" : 21.401166,
+      "lng" : 39.89031,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 169,
+    "status" : "Active"
+  },
+  "381-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 90,
+      "lat" : 21.406447999999997,
+      "lng" : 39.882231000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 123,
+    "status" : "inActive"
+  },
+  "382-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 115,
+      "lat" : 21.402365999999997,
+      "lng" : 39.881902000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 298,
+    "status" : "Active"
+  },
+  "383-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 192,
+      "lat" : 21.418042999999997,
+      "lng" : 39.883727,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 152,
+    "status" : "inActive"
+  },
+  "384-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 165,
+      "lat" : 21.409709999999997,
+      "lng" : 39.897457,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 243,
+    "status" : "Active"
+  },
+  "385-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 167,
+      "lat" : 21.416784999999997,
+      "lng" : 39.889493,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 129,
+    "status" : "inActive"
+  },
+  "386-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 313,
+      "lat" : 21.410408999999998,
+      "lng" : 39.897904000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 63,
+    "status" : "Active"
+  },
+  "387-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 327,
+      "lat" : 21.413926,
+      "lng" : 39.898926,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 94,
+    "status" : "inActive"
+  },
+  "388-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 89,
+      "lat" : 21.407517,
+      "lng" : 39.88384,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 152,
+    "status" : "Active"
+  },
+  "389-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 314,
+      "lat" : 21.411671,
+      "lng" : 39.890213,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 261,
+    "status" : "inActive"
+  },
+  "39-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 358,
+      "lat" : 21.413151,
+      "lng" : 39.898792,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 292,
+    "status" : "inActive"
+  },
+  "390-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 137,
+      "lat" : 21.401180999999998,
+      "lng" : 39.882891,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 284,
+    "status" : "Active"
+  },
+  "391-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 191,
+      "lat" : 21.418452,
+      "lng" : 39.889442,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 192,
+    "status" : "inActive"
+  },
+  "392-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 19,
+      "lat" : 21.40938,
+      "lng" : 39.888535000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 81,
+    "status" : "Active"
+  },
+  "393-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 17,
+      "lat" : 21.407273,
+      "lng" : 39.89772,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 232,
+    "status" : "inActive"
+  },
+  "394-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 45,
+      "lat" : 21.405120999999998,
+      "lng" : 39.896444,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 103,
+    "status" : "Active"
+  },
+  "395-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 300,
+      "lat" : 21.412022999999998,
+      "lng" : 39.883674,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 292,
+    "status" : "inActive"
+  },
+  "396-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 110,
+      "lat" : 21.403336,
+      "lng" : 39.882913,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 288,
+    "status" : "Active"
+  },
+  "397-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 299,
+      "lat" : 21.404218,
+      "lng" : 39.885046,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 55,
+    "status" : "inActive"
+  },
+  "398-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 273,
+      "lat" : 21.407504999999997,
+      "lng" : 39.896872,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 206,
+    "status" : "Active"
+  },
+  "399-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 245,
+      "lat" : 21.41854,
+      "lng" : 39.884059,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 57,
+    "status" : "inActive"
+  },
+  "4-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 312,
+      "lat" : 21.414163,
+      "lng" : 39.8933,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 74,
+    "status" : "Active"
+  },
+  "40-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 105,
+      "lat" : 21.416643999999998,
+      "lng" : 39.888887000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 143,
+    "status" : "Active"
+  },
+  "400-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 70,
+      "lat" : 21.413909999999998,
+      "lng" : 39.895209,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 21,
+    "status" : "Active"
+  },
+  "401-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 13,
+      "lat" : 21.410090999999998,
+      "lng" : 39.889066,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 136,
+    "status" : "inActive"
+  },
+  "402-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 27,
+      "lat" : 21.414983,
+      "lng" : 39.897002,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 275,
+    "status" : "Active"
+  },
+  "403-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 135,
+      "lat" : 21.411046,
+      "lng" : 39.891961,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 284,
+    "status" : "inActive"
+  },
+  "404-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 345,
+      "lat" : 21.407677999999997,
+      "lng" : 39.882172000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 254,
+    "status" : "Active"
+  },
+  "405-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.416532999999998,
+      "lng" : 39.897536,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 86,
+    "status" : "inActive"
+  },
+  "406-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 197,
+      "lat" : 21.416991999999997,
+      "lng" : 39.898298000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 247,
+    "status" : "Active"
+  },
+  "407-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 39,
+      "lat" : 21.408528999999998,
+      "lng" : 39.890218000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 133,
+    "status" : "inActive"
+  },
+  "408-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 184,
+      "lat" : 21.404166999999998,
+      "lng" : 39.892685,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 14,
+    "status" : "Active"
+  },
+  "409-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 219,
+      "lat" : 21.405403999999997,
+      "lng" : 39.889833,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 292,
+    "status" : "inActive"
+  },
+  "41-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 54,
+      "lat" : 21.405005,
+      "lng" : 39.893431,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 225,
+    "status" : "inActive"
+  },
+  "410-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 231,
+      "lat" : 21.40101,
+      "lng" : 39.894737,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 144,
+    "status" : "Active"
+  },
+  "411-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 127,
+      "lat" : 21.415025,
+      "lng" : 39.882328,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 153,
+    "status" : "inActive"
+  },
+  "412-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 102,
+      "lat" : 21.412784,
+      "lng" : 39.883547,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 27,
+    "status" : "Active"
+  },
+  "413-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 198,
+      "lat" : 21.405192999999997,
+      "lng" : 39.88525,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 93,
+    "status" : "inActive"
+  },
+  "414-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 248,
+      "lat" : 21.408758,
+      "lng" : 39.887241,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 111,
+    "status" : "Active"
+  },
+  "415-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 202,
+      "lat" : 21.406109999999998,
+      "lng" : 39.898065,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 213,
+    "status" : "inActive"
+  },
+  "416-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 209,
+      "lat" : 21.402157,
+      "lng" : 39.882003000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "417-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 28,
+      "lat" : 21.417021,
+      "lng" : 39.891746000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 260,
+    "status" : "inActive"
+  },
+  "418-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 175,
+      "lat" : 21.408886,
+      "lng" : 39.885038,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 145,
+    "status" : "Active"
+  },
+  "419-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 191,
+      "lat" : 21.400230999999998,
+      "lng" : 39.885854,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 272,
+    "status" : "inActive"
+  },
+  "42-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 238,
+      "lat" : 21.404494,
+      "lng" : 39.894405,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 106,
+    "status" : "Active"
+  },
+  "420-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 272,
+      "lat" : 21.400406,
+      "lng" : 39.889106000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 123,
+    "status" : "Active"
+  },
+  "421-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 39,
+      "lat" : 21.414946999999998,
+      "lng" : 39.8998,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 133,
+    "status" : "inActive"
+  },
+  "422-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 331,
+      "lat" : 21.403765999999997,
+      "lng" : 39.897943000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 192,
+    "status" : "Active"
+  },
+  "423-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 89,
+      "lat" : 21.413937999999998,
+      "lng" : 39.894193,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 289,
+    "status" : "inActive"
+  },
+  "424-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 122,
+      "lat" : 21.41741,
+      "lng" : 39.899589000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 125,
+    "status" : "Active"
+  },
+  "425-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 314,
+      "lat" : 21.416439999999998,
+      "lng" : 39.897458,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 145,
+    "status" : "inActive"
+  },
+  "426-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 164,
+      "lat" : 21.413225999999998,
+      "lng" : 39.898743,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 276,
+    "status" : "Active"
+  },
+  "427-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 325,
+      "lat" : 21.400807999999998,
+      "lng" : 39.890564000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 211,
+    "status" : "inActive"
+  },
+  "428-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 311,
+      "lat" : 21.414973999999997,
+      "lng" : 39.884826000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 199,
+    "status" : "Active"
+  },
+  "429-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 134,
+      "lat" : 21.41499,
+      "lng" : 39.898644000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 144,
+    "status" : "inActive"
+  },
+  "43-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 2,
+      "lat" : 21.410103,
+      "lng" : 39.895300000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 33,
+    "status" : "inActive"
+  },
+  "430-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 311,
+      "lat" : 21.410697,
+      "lng" : 39.884601,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 166,
+    "status" : "Active"
+  },
+  "431-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 88,
+      "lat" : 21.417848,
+      "lng" : 39.898991,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 174,
+    "status" : "inActive"
+  },
+  "432-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 254,
+      "lat" : 21.411589,
+      "lng" : 39.880819,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 196,
+    "status" : "Active"
+  },
+  "433-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 129,
+      "lat" : 21.410797,
+      "lng" : 39.885195,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 202,
+    "status" : "inActive"
+  },
+  "434-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 109,
+      "lat" : 21.409371,
+      "lng" : 39.892509000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 83,
+    "status" : "Active"
+  },
+  "435-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 358,
+      "lat" : 21.410559,
+      "lng" : 39.895258000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 67,
+    "status" : "inActive"
+  },
+  "436-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 224,
+      "lat" : 21.400233999999998,
+      "lng" : 39.886166,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 155,
+    "status" : "Active"
+  },
+  "437-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 294,
+      "lat" : 21.404412999999998,
+      "lng" : 39.888074,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 167,
+    "status" : "inActive"
+  },
+  "438-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 212,
+      "lat" : 21.408958,
+      "lng" : 39.882767,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 292,
+    "status" : "Active"
+  },
+  "439-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 97,
+      "lat" : 21.403131,
+      "lng" : 39.887249000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 163,
+    "status" : "inActive"
+  },
+  "44-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 279,
+      "lat" : 21.405018,
+      "lng" : 39.893579,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 248,
+    "status" : "Active"
+  },
+  "440-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 260,
+      "lat" : 21.415374,
+      "lng" : 39.883705,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 145,
+    "status" : "Active"
+  },
+  "441-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 98,
+      "lat" : 21.419482,
+      "lng" : 39.897682,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 110,
+    "status" : "inActive"
+  },
+  "442-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 327,
+      "lat" : 21.401687,
+      "lng" : 39.886799,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 277,
+    "status" : "Active"
+  },
+  "443-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 201,
+      "lat" : 21.408427,
+      "lng" : 39.898106000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 218,
+    "status" : "inActive"
+  },
+  "444-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 19,
+      "lat" : 21.417133999999997,
+      "lng" : 39.885035,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 274,
+    "status" : "Active"
+  },
+  "445-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 214,
+      "lat" : 21.401842,
+      "lng" : 39.887308000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 49,
+    "status" : "inActive"
+  },
+  "446-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 318,
+      "lat" : 21.412957,
+      "lng" : 39.880859,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 265,
+    "status" : "Active"
+  },
+  "447-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 211,
+      "lat" : 21.414624,
+      "lng" : 39.888604,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 213,
+    "status" : "inActive"
+  },
+  "448-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 193,
+      "lat" : 21.414555999999997,
+      "lng" : 39.88525,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 223,
+    "status" : "Active"
+  },
+  "449-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 109,
+      "lat" : 21.402545,
+      "lng" : 39.891299000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 286,
+    "status" : "inActive"
+  },
+  "45-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 215,
+      "lat" : 21.416037,
+      "lng" : 39.89539,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 159,
+    "status" : "inActive"
+  },
+  "450-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 344,
+      "lat" : 21.400147999999998,
+      "lng" : 39.898701,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 31,
+    "status" : "Active"
+  },
+  "451-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 337,
+      "lat" : 21.412179,
+      "lng" : 39.882562,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 100,
+    "status" : "inActive"
+  },
+  "452-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 317,
+      "lat" : 21.41188,
+      "lng" : 39.888582,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 124,
+    "status" : "Active"
+  },
+  "453-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 282,
+      "lat" : 21.409778,
+      "lng" : 39.881239,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 85,
+    "status" : "inActive"
+  },
+  "454-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 137,
+      "lat" : 21.403848,
+      "lng" : 39.896627,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 113,
+    "status" : "Active"
+  },
+  "455-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 312,
+      "lat" : 21.410899999999998,
+      "lng" : 39.883148000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 234,
+    "status" : "inActive"
+  },
+  "456-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 31,
+      "lat" : 21.409712,
+      "lng" : 39.899953000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 211,
+    "status" : "Active"
+  },
+  "457-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 218,
+      "lat" : 21.401484,
+      "lng" : 39.896388,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 63,
+    "status" : "inActive"
+  },
+  "458-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 99,
+      "lat" : 21.409637999999998,
+      "lng" : 39.890978000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 74,
+    "status" : "Active"
+  },
+  "459-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 101,
+      "lat" : 21.410275,
+      "lng" : 39.893178000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "inActive"
+  },
+  "46-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 196,
+      "lat" : 21.407082,
+      "lng" : 39.894801,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 74,
+    "status" : "Active"
+  },
+  "460-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 158,
+      "lat" : 21.404729,
+      "lng" : 39.889446,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 78,
+    "status" : "Active"
+  },
+  "461-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 300,
+      "lat" : 21.414500999999998,
+      "lng" : 39.88949,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 162,
+    "status" : "inActive"
+  },
+  "462-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 248,
+      "lat" : 21.413856,
+      "lng" : 39.896491000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 257,
+    "status" : "Active"
+  },
+  "463-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 133,
+      "lat" : 21.415488,
+      "lng" : 39.892452000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 173,
+    "status" : "inActive"
+  },
+  "464-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 28,
+      "lat" : 21.404812999999997,
+      "lng" : 39.886071,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 127,
+    "status" : "Active"
+  },
+  "465-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 139,
+      "lat" : 21.411431999999998,
+      "lng" : 39.899525000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 279,
+    "status" : "inActive"
+  },
+  "466-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 87,
+      "lat" : 21.409169,
+      "lng" : 39.887362,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 20,
+    "status" : "Active"
+  },
+  "467-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 204,
+      "lat" : 21.404411999999997,
+      "lng" : 39.885392,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 131,
+    "status" : "inActive"
+  },
+  "468-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 353,
+      "lat" : 21.412878,
+      "lng" : 39.898743,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 159,
+    "status" : "Active"
+  },
+  "469-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 243,
+      "lat" : 21.405614999999997,
+      "lng" : 39.89011,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 155,
+    "status" : "inActive"
+  },
+  "47-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 91,
+      "lat" : 21.406952999999998,
+      "lng" : 39.893961000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 94,
+    "status" : "inActive"
+  },
+  "470-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 195,
+      "lat" : 21.401228999999997,
+      "lng" : 39.898341,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 278,
+    "status" : "Active"
+  },
+  "471-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 91,
+      "lat" : 21.419628999999997,
+      "lng" : 39.896682000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 192,
+    "status" : "inActive"
+  },
+  "472-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 278,
+      "lat" : 21.413154,
+      "lng" : 39.885487000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 239,
+    "status" : "Active"
+  },
+  "473-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 323,
+      "lat" : 21.405602,
+      "lng" : 39.895155,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 294,
+    "status" : "inActive"
+  },
+  "474-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 192,
+      "lat" : 21.403803,
+      "lng" : 39.892625,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 244,
+    "status" : "Active"
+  },
+  "475-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 118,
+      "lat" : 21.404277999999998,
+      "lng" : 39.883813,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 100,
+    "status" : "inActive"
+  },
+  "476-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 79,
+      "lat" : 21.405685,
+      "lng" : 39.888112,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 115,
+    "status" : "Active"
+  },
+  "477-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 153,
+      "lat" : 21.410735,
+      "lng" : 39.888853000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 222,
+    "status" : "inActive"
+  },
+  "478-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 292,
+      "lat" : 21.405258,
+      "lng" : 39.886095000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 87,
+    "status" : "Active"
+  },
+  "479-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 324,
+      "lat" : 21.40071,
+      "lng" : 39.896723,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 234,
+    "status" : "inActive"
+  },
+  "48-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 308,
+      "lat" : 21.409093,
+      "lng" : 39.886968,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 79,
+    "status" : "Active"
+  },
+  "480-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 53,
+      "lat" : 21.405129,
+      "lng" : 39.893495,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 258,
+    "status" : "Active"
+  },
+  "481-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 266,
+      "lat" : 21.403876999999998,
+      "lng" : 39.880756000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 276,
+    "status" : "inActive"
+  },
+  "482-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 355,
+      "lat" : 21.405286999999998,
+      "lng" : 39.88427,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 232,
+    "status" : "Active"
+  },
+  "483-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 135,
+      "lat" : 21.412744,
+      "lng" : 39.899252000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 244,
+    "status" : "inActive"
+  },
+  "484-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 306,
+      "lat" : 21.416812,
+      "lng" : 39.888258,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 96,
+    "status" : "Active"
+  },
+  "485-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 307,
+      "lat" : 21.417911,
+      "lng" : 39.892363,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 90,
+    "status" : "inActive"
+  },
+  "486-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 131,
+      "lat" : 21.401514,
+      "lng" : 39.885845,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 71,
+    "status" : "Active"
+  },
+  "487-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 180,
+      "lat" : 21.407579,
+      "lng" : 39.886025000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 287,
+    "status" : "inActive"
+  },
+  "488-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 38,
+      "lat" : 21.417582,
+      "lng" : 39.891508,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 81,
+    "status" : "Active"
+  },
+  "489-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 256,
+      "lat" : 21.413404999999997,
+      "lng" : 39.88637,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 124,
+    "status" : "inActive"
+  },
+  "49-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 163,
+      "lat" : 21.405033999999997,
+      "lng" : 39.888488,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 46,
+    "status" : "inActive"
+  },
+  "490-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 124,
+      "lat" : 21.415249,
+      "lng" : 39.894611000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 57,
+    "status" : "Active"
+  },
+  "491-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 247,
+      "lat" : 21.419939999999997,
+      "lng" : 39.896601000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 20,
+    "status" : "inActive"
+  },
+  "492-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 306,
+      "lat" : 21.410266,
+      "lng" : 39.884041,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 157,
+    "status" : "Active"
+  },
+  "493-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 70,
+      "lat" : 21.410180999999998,
+      "lng" : 39.889087,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 196,
+    "status" : "inActive"
+  },
+  "494-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 251,
+      "lat" : 21.407787,
+      "lng" : 39.898124,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 191,
+    "status" : "Active"
+  },
+  "495-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 185,
+      "lat" : 21.407284999999998,
+      "lng" : 39.889483000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 63,
+    "status" : "inActive"
+  },
+  "496-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 27,
+      "lat" : 21.406729,
+      "lng" : 39.888432,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 57,
+    "status" : "Active"
+  },
+  "497-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 46,
+      "lat" : 21.402632999999998,
+      "lng" : 39.884138,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 177,
+    "status" : "inActive"
+  },
+  "498-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 184,
+      "lat" : 21.40598,
+      "lng" : 39.891335000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 119,
+    "status" : "Active"
+  },
+  "499-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 310,
+      "lat" : 21.414209,
+      "lng" : 39.886372,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 83,
+    "status" : "inActive"
+  },
+  "5-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 335,
+      "lat" : 21.407321,
+      "lng" : 39.898467000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 98,
+    "status" : "inActive"
+  },
+  "50-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 250,
+      "lat" : 21.413110999999997,
+      "lng" : 39.893025,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 104,
+    "status" : "Active"
+  },
+  "51-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 141,
+      "lat" : 21.414303999999998,
+      "lng" : 39.885786,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 181,
+    "status" : "inActive"
+  },
+  "52-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 233,
+      "lat" : 21.410656999999997,
+      "lng" : 39.881305000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 49,
+    "status" : "Active"
+  },
+  "53-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 311,
+      "lat" : 21.40628,
+      "lng" : 39.887413,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 65,
+    "status" : "inActive"
+  },
+  "54-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 43,
+      "lat" : 21.406425,
+      "lng" : 39.890979,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 29,
+    "status" : "Active"
+  },
+  "55-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 21,
+      "lat" : 21.403043,
+      "lng" : 39.891489,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 57,
+    "status" : "inActive"
+  },
+  "56-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 23,
+      "lat" : 21.415532,
+      "lng" : 39.889741,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 295,
+    "status" : "Active"
+  },
+  "57-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 267,
+      "lat" : 21.400350999999997,
+      "lng" : 39.895989,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 225,
+    "status" : "inActive"
+  },
+  "58-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 36,
+      "lat" : 21.412343,
+      "lng" : 39.899355,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 209,
+    "status" : "Active"
+  },
+  "59-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 173,
+      "lat" : 21.418899,
+      "lng" : 39.89575,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 140,
+    "status" : "inActive"
+  },
+  "6-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 203,
+      "lat" : 21.405254,
+      "lng" : 39.895911000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 150,
+    "status" : "Active"
+  },
+  "60-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 141,
+      "lat" : 21.411461,
+      "lng" : 39.883639,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 13,
+    "status" : "Active"
+  },
+  "61-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 200,
+      "lat" : 21.419797,
+      "lng" : 39.89302,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 252,
+    "status" : "inActive"
+  },
+  "62-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 47,
+      "lat" : 21.418822,
+      "lng" : 39.891963000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 115,
+    "status" : "Active"
+  },
+  "63-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 300,
+      "lat" : 21.41281,
+      "lng" : 39.885294,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 229,
+    "status" : "inActive"
+  },
+  "64-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 104,
+      "lat" : 21.405803,
+      "lng" : 39.884852,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "65-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 236,
+      "lat" : 21.413543999999998,
+      "lng" : 39.888272,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 252,
+    "status" : "inActive"
+  },
+  "66-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 357,
+      "lat" : 21.412829,
+      "lng" : 39.898767,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 21,
+    "status" : "Active"
+  },
+  "67-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 306,
+      "lat" : 21.412281999999998,
+      "lng" : 39.890820000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 268,
+    "status" : "inActive"
+  },
+  "68-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 27,
+      "lat" : 21.419583999999997,
+      "lng" : 39.898675000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 204,
+    "status" : "Active"
+  },
+  "69-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 167,
+      "lat" : 21.416548,
+      "lng" : 39.887818,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 295,
+    "status" : "inActive"
+  },
+  "7-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 255,
+      "lat" : 21.405451,
+      "lng" : 39.892996000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 286,
+    "status" : "inActive"
+  },
+  "70-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 286,
+      "lat" : 21.403671,
+      "lng" : 39.899585,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 171,
+    "status" : "Active"
+  },
+  "71-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 22,
+      "lat" : 21.407534,
+      "lng" : 39.895665,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 244,
+    "status" : "inActive"
+  },
+  "72-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 121,
+      "lat" : 21.404224,
+      "lng" : 39.891095,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 51,
+    "status" : "Active"
+  },
+  "73-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 4,
+      "lat" : 21.417302,
+      "lng" : 39.894458,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 33,
+    "status" : "inActive"
+  },
+  "74-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 17,
+      "lat" : 21.410225999999998,
+      "lng" : 39.886836,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 126,
+    "status" : "Active"
+  },
+  "75-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 194,
+      "lat" : 21.415463,
+      "lng" : 39.880472000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 33,
+    "status" : "inActive"
+  },
+  "76-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 22,
+      "lat" : 21.403135,
+      "lng" : 39.899941000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 130,
+    "status" : "Active"
+  },
+  "77-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 280,
+      "lat" : 21.400451,
+      "lng" : 39.898973000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 75,
+    "status" : "inActive"
+  },
+  "78-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 86,
+      "lat" : 21.419549999999997,
+      "lng" : 39.883103000000006,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 208,
+    "status" : "Active"
+  },
+  "79-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 30,
+      "lat" : 21.402023,
+      "lng" : 39.889983,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 59,
+    "status" : "inActive"
+  },
+  "8-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 225,
+      "lat" : 21.405948,
+      "lng" : 39.894554,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 219,
+    "status" : "Active"
+  },
+  "80-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 158,
+      "lat" : 21.40526,
+      "lng" : 39.898615,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 75,
+    "status" : "Active"
+  },
+  "81-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 331,
+      "lat" : 21.40756,
+      "lng" : 39.886432,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 35,
+    "status" : "inActive"
+  },
+  "82-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 249,
+      "lat" : 21.402248999999998,
+      "lng" : 39.89565,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 144,
+    "status" : "Active"
+  },
+  "83-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 64,
+      "lat" : 21.406340999999998,
+      "lng" : 39.893666,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 167,
+    "status" : "inActive"
+  },
+  "84-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 97,
+      "lat" : 21.417108,
+      "lng" : 39.892706000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 107,
+    "status" : "Active"
+  },
+  "85-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 129,
+      "lat" : 21.400851999999997,
+      "lng" : 39.894433,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 44,
+    "status" : "inActive"
+  },
+  "86-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 256,
+      "lat" : 21.404891,
+      "lng" : 39.891238,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 14,
+    "status" : "Active"
+  },
+  "87-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 271,
+      "lat" : 21.419877,
+      "lng" : 39.888127000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 79,
+    "status" : "inActive"
+  },
+  "88-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 324,
+      "lat" : 21.411386,
+      "lng" : 39.898827000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 64,
+    "status" : "Active"
+  },
+  "89-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 108,
+      "lat" : 21.414310999999998,
+      "lng" : 39.890922,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 144,
+    "status" : "inActive"
+  },
+  "9-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 307,
+      "lat" : 21.415058,
+      "lng" : 39.887186,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 275,
+    "status" : "inActive"
+  },
+  "90-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 299,
+      "lat" : 21.417982,
+      "lng" : 39.89998,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 171,
+    "status" : "Active"
+  },
+  "91-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 284,
+      "lat" : 21.405385,
+      "lng" : 39.899592000000005,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 70,
+    "status" : "inActive"
+  },
+  "92-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 86,
+      "lat" : 21.417181999999997,
+      "lng" : 39.884138,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 176,
+    "status" : "Active"
+  },
+  "93-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 248,
+      "lat" : 21.415269,
+      "lng" : 39.892156,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 224,
+    "status" : "inActive"
+  },
+  "94-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 316,
+      "lat" : 21.419446999999998,
+      "lng" : 39.880299,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 293,
+    "status" : "Active"
+  },
+  "95-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 101,
+      "lat" : 21.401626999999998,
+      "lng" : 39.886572,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 97,
+    "status" : "inActive"
+  },
+  "96-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 0,
+      "lat" : 21.405011,
+      "lng" : 39.887256,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 49,
+    "status" : "Active"
+  },
+  "97-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 238,
+      "lat" : 21.406532,
+      "lng" : 39.898561,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 61,
+    "status" : "inActive"
+  },
+  "98-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 209,
+      "lat" : 21.419537,
+      "lng" : 39.890601000000004,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 227,
+    "status" : "Active"
+  },
+  "99-tmp" : {
+    "campaign_id" : "campaign_id",
+    "location" : {
+      "heading" : 41,
+      "lat" : 21.409150999999998,
+      "lng" : 39.89267,
+      "timestamp" : 123456789
+    },
+    "numberOfPeople" : 68,
+    "status" : "inActive"
+  },
+  "A24" : {
+    "campaign_id" : "juries_OPk324",
+    "location" : {
+      "lat" : 21.411750773043103,
+      "lng" : 39.8866940272394
+    },
+    "numberOfPeople" : 90
+  },
+  "A63" : {
+    "campaign_id" : "juries_OPk363",
+    "location" : {
+      "lat" : 21.40813846,
+      "lng" : 39.89797874
+    },
+    "numberOfPeople" : 65
+  },
+  "B13" : {
+    "campaign_id" : "juries_OPk313",
+    "location" : {
+      "lat" : 21.40816348,
+      "lng" : 39.88962825
+    },
+    "numberOfPeople" : 122
+  },
+  "B24" : {
+    "campaign_id" : "juries_OPk324",
+    "location" : {
+      "lat" : 21.40961298585358,
+      "lng" : 39.88519344940141
+    },
+    "numberOfPeople" : 57
+  },
+  "B63" : {
+    "campaign_id" : "juries_OPk363",
+    "location" : {
+      "lat" : 21.41807426,
+      "lng" : 39.88308889
+    },
+    "numberOfPeople" : 87
+  },
+  "C24" : {
+    "campaign_id" : "juries_OPk3",
+    "location" : {
+      "lat" : 21.42113045488841,
+      "lng" : 39.87912320734176
+    },
+    "numberOfPeople" : 87
+  },
+  "C63" : {
+    "campaign_id" : "juries_OPk3",
+    "location" : {
+      "lat" : 21.40826516777468,
+      "lng" : 39.8977084781684
+    },
+    "numberOfPeople" : 90
+  },
+  "D24" : {
+    "campaign_id" : "juries_OPk324",
+    "location" : {
+      "lat" : 21.41920593876331,
+      "lng" : 39.87885349936914
+    },
+    "numberOfPeople" : 75
+  },
+  "D63" : {
+    "campaign_id" : "juries_OPk363",
+    "location" : {
+      "lat" : 21.40503391,
+      "lng" : 39.87847979
+    },
+    "numberOfPeople" : 148
+  },
+  "E24" : {
+    "campaign_id" : "juries_OPk3",
+    "location" : {
+      "lat" : 21.414667645032456,
+      "lng" : 39.88724488274636
+    },
+    "numberOfPeople" : 56
+  },
+  "E63" : {
+    "campaign_id" : "juries_OPk3",
+    "location" : {
+      "lat" : 21.41004649,
+      "lng" : 39.89920953
+    },
+    "numberOfPeople" : 75
+  }
+}

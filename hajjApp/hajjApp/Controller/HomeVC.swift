@@ -14,7 +14,7 @@ import Firebase
 class HomeVC: UIViewController {
     
     static var campaign : Campaign?
-    
+    static var currentLocation : CLLocation?
     let locationManager = CLLocationManager()
 
     override func viewDidLoad() {
@@ -26,7 +26,7 @@ class HomeVC: UIViewController {
         
         //Setup Location
         locationManager.delegate = self
-        locationManager.desiredAccuracy = kCLLocationAccuracyBest
+        locationManager.desiredAccuracy = kCLLocationAccuracyNearestTenMeters
         
         setupViews()
         
@@ -292,16 +292,25 @@ class HomeVC: UIViewController {
 
 
 extension HomeVC : CLLocationManagerDelegate {
-    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        for newLocation in locations {
-
-            let howRecent = newLocation.timestamp.timeIntervalSinceNow
-            guard newLocation.horizontalAccuracy < 1000 && abs(howRecent) < 10  else { continue }
-
-            updateDatabaseLocation(location: newLocation)
-
-        }
-    }
+//    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+//        for newLocation in locations {
+//            
+//            let howRecent = newLocation.timestamp.timeIntervalSinceNow
+//            guard newLocation.horizontalAccuracy < 1000 && abs(howRecent) < 10  else { continue }
+//            
+//            if let oldLocation = currentLocation  {
+//                let distance = newLocation.distance(from: oldLocation)
+//                if distance > 10 {
+//                    updateDatabaseLocation(location: newLocation)
+//                }
+//                print(distance)
+//            } else {
+//                
+//                updateDatabaseLocation(location: newLocation)
+//            }
+//
+//        }
+//    }
     
     func locationManager(_ manager: CLLocationManager, didUpdateHeading newHeading: CLHeading) {
         
