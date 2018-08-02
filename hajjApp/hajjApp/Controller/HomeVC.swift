@@ -43,6 +43,17 @@ class HomeVC: UIViewController {
         return l
     }()
     
+    let crowdTitle : UILabel = {
+        let l = UILabel()
+        l.font = UIFont.boldSystemFont(ofSize: 18)
+        l.textAlignment = .center
+        
+        l.numberOfLines = 0
+        l.text = "Add number of people following you"
+        
+        return l
+    }()
+    
     lazy var addBtn : UIButton = {
         let b = UIButton(type: .system)
         b.setTitle("+", for: .normal)
@@ -254,6 +265,7 @@ class HomeVC: UIViewController {
         view.addSubview(stackView)
         view.addSubview(crowdStackView)
         view.addSubview(statusLabel)
+        view.addSubview(crowdTitle)
         
         stackView.axis = .vertical
         stackView.distribution = .fillEqually
@@ -270,6 +282,8 @@ class HomeVC: UIViewController {
         crowdStackView.anchor(top: nil, left: nil, bottom: nil, right: nil, paddingTop: 0, paddingLeft: 0, paddingBottom: 0, paddingRight: 0, width: WIDTH / 2, height: 40)
         crowdStackView.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
         crowdStackView.centerYAnchor.constraint(equalTo: view.centerYAnchor).isActive = true
+        
+        crowdTitle.anchor(top: nil, left: view.leftAnchor, bottom: numberOfCrowd.topAnchor, right: view.rightAnchor, paddingTop: 0, paddingLeft: 0, paddingBottom: 10, paddingRight: 0, width: 0, height: 60)
         
         statusLabel.anchor(top: view.safeAreaLayoutGuide.topAnchor, left: view.leftAnchor, bottom: nil, right: view.rightAnchor, paddingTop: 30, paddingLeft: 0, paddingBottom: 0, paddingRight: 0, width: 0, height: 60)
         

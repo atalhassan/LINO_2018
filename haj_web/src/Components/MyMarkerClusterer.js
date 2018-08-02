@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import MyMarker from './MyMarker'
 import { db } from '../firebase'
 const { MarkerClusterer } = require("react-google-maps/lib/components/addons/MarkerClusterer");
-
+const { SearchBox } = require("react-google-maps/lib/components/places/SearchBox");
 
 
 class MyMarkerClusterer extends Component {
