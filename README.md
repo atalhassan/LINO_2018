@@ -3,4 +3,14 @@
 
 ## Haj Web
 
-- install dependencies ``` npm install firebase react-router-dom react-google-maps --save ```
+### To Run
+- install dependencies ``` npm install  ```
+- run ``` npm start  ```
+
+## Haj App
+
+### To Run
+- install dependencies ``` pod install  ```
+
+
+## Tafweej
