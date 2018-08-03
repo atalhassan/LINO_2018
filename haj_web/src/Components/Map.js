@@ -19,20 +19,26 @@ class Map extends Component {
 
   constructor(props) {
     super(props);
-
   }
 
+componentDidMount() {
+
+  this.setState({...this.props})
+}
 
 render() {
-console.log("reloded");
+
   return (
     <div className="Map">
       <MapView
         googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvmS_5SD6-OsItntOs_dnLFcjbi_lIsJ8"
         loadingElement={<div style={{ height: `100%` }} />}
-        containerElement={<div style={{ height: `100vh` }} />}
+        containerElement={<div style={{ height: `100vh` , width: `85%`}} />}
         mapElement={<div style={{ height: `100%` }} />}
-      />
+        {...this.props}
+      >
+      </MapView>
+
     </div>
   );
 }

@@ -8,7 +8,8 @@ class MyMarkerClusterer extends Component {
 
     constructor(props) {
       super(props);
-      this.state = { crowds : {} };
+      this.state = { crowds : {}};
+
     }
 
 
@@ -22,13 +23,13 @@ class MyMarkerClusterer extends Component {
       //     });
       // });
 
+      this.setState({...this.props})
 
       db.fetchMfwejeen().once('value').then((snapshot) => {
           let crowds = snapshot.val()
           db.fetchMfwejeen().on('child_added', (snapshot) => {
             const dict = {...this.state.crowds}
             dict[snapshot.key] = snapshot.val()
-            // const result = Object.values(dict).filter(crowd => crowd.status !== 'Suspended');
 
             this.setState( {"crowds": dict})
           });
@@ -47,14 +48,15 @@ class MyMarkerClusterer extends Component {
       <MarkerClusterer
       defaultAverageCenter
       defaultEnableRetinaIcons
-
-      defaultGridSize={25}
+      defaultMaxZoom={15}
+      defaultGridSize={10}
       >
       {Object.keys(this.state.crowds).length === 0
         ? <div></div>
         :
         Object.keys(this.state.crowds).map((key,i) => (
           <MyMarker
+            {...this.props}
             key={i}
             campaign_id={key === undefined ? '' : key}
             index={i}

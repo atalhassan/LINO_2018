@@ -25,8 +25,7 @@ class HomeVC: UIViewController {
         navigationController?.navigationBar.barTintColor = Green
         
         //Setup Location
-        locationManager.delegate = self
-        locationManager.desiredAccuracy = kCLLocationAccuracyNearestTenMeters
+        checkLocationState()
         
         setupViews()
         
@@ -106,12 +105,13 @@ class HomeVC: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
+        
     }
     
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        checkLocationState()
+        
     }
     func checkStatus() {
         guard let crowd_id = HomeVC.campaign?.crowd_id else {return}
@@ -138,10 +138,10 @@ class HomeVC: UIViewController {
         switch CLLocationManager.authorizationStatus() {
         case .authorizedAlways:
             print("authorizedAlways")
-            let appDelegate = UIApplication.shared.delegate as! AppDelegate
-            locationManager.delegate = appDelegate
-            locationManager.startUpdatingHeading()
+
+            locationManager.requestAlwaysAuthorization()
             locationManager.activityType = .fitness
+            locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
             locationManager.startUpdatingLocation()
             
         case .authorizedWhenInUse:
@@ -311,21 +311,21 @@ extension HomeVC : CLLocationManagerDelegate {
 //
 //        }
 //    }
-    
-    func locationManager(_ manager: CLLocationManager, didUpdateHeading newHeading: CLHeading) {
-        
-        let howRecent = newHeading.timestamp.timeIntervalSinceNow
-        guard newHeading.headingAccuracy < 30 && abs(howRecent) < 10  else { return }
-        updateDatabaseHeading(heading: newHeading)
-    }
-    
-    func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
-        
-    }
-    
-    func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
-        print(error)
-    }
+//
+//    func locationManager(_ manager: CLLocationManager, didUpdateHeading newHeading: CLHeading) {
+//
+//        let howRecent = newHeading.timestamp.timeIntervalSinceNow
+//        guard newHeading.headingAccuracy < 30 && abs(howRecent) < 10  else { return }
+//        updateDatabaseHeading(heading: newHeading)
+//    }
+//
+//    func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
+//
+//    }
+//
+//    func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
+//        print(error)
+//    }
 }
 
 

@@ -42,7 +42,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         } else {
              window?.rootViewController = UINavigationController(rootViewController: vc)
         }
-    
+        
+        locationManager.delegate = self
+        locationManager.requestAlwaysAuthorization()
+        locationManager.activityType = .fitness
+        locationManager.startUpdatingLocation()
         
         
         return true
@@ -55,22 +59,28 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationDidEnterBackground(_ application: UIApplication) {
         print("applicationDidEnterBackground")
         locationManager.delegate = self
+        
+        locationManager.requestAlwaysAuthorization()
         locationManager.stopUpdatingLocation()
         locationManager.allowsBackgroundLocationUpdates = true
         locationManager.activityType = .fitness
         locationManager.pausesLocationUpdatesAutomatically = false
         locationManager.startMonitoringSignificantLocationChanges()
-        locationManager.startUpdatingHeading()
+        
+        locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {
         // Called as part of the transition from the background to the active state; here you can undo many of the changes made on entering the background.
         print("applicationWillEnterForeground")
+        
+        locationManager.requestAlwaysAuthorization()
         locationManager.delegate = self
         locationManager.activityType = .fitness
         locationManager.stopMonitoringSignificantLocationChanges()
+        locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
         locationManager.startUpdatingLocation()
-        locationManager.startUpdatingHeading()
+        
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
@@ -80,12 +90,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         print("applicationWillTerminate")
         locationManager.delegate = self
+        locationManager.requestAlwaysAuthorization()
         locationManager.stopUpdatingLocation()
         locationManager.allowsBackgroundLocationUpdates = true
         locationManager.activityType = .fitness
         locationManager.pausesLocationUpdatesAutomatically = false
+        locationManager.desiredAccuracy = kCLLocationAccuracyBestForNavigation
         locationManager.startMonitoringSignificantLocationChanges()
-        locationManager.startUpdatingHeading()
     }
     
     func updateDatabaseHeading(heading: CLHeading)  {
@@ -111,6 +122,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     
+    
 }
 
 extension AppDelegate : CLLocationManagerDelegate {
@@ -118,7 +130,7 @@ extension AppDelegate : CLLocationManagerDelegate {
         for newLocation in locations {
             let howRecent = newLocation.timestamp.timeIntervalSinceNow
 //            guard newLocation.horizontalAccuracy < 1000 && abs(howRecent) < 10  else { continue }
-            
+            print(newLocation.coordinate)
             if let oldLocation = HomeVC.currentLocation  {
                 
                 let distance = newLocation.distance(from: oldLocation)
@@ -139,6 +151,7 @@ extension AppDelegate : CLLocationManagerDelegate {
         
         let howRecent = newHeading.timestamp.timeIntervalSinceNow
         guard newHeading.headingAccuracy < 30 && abs(howRecent) < 10  else { return }
+        
         updateDatabaseHeading(heading: newHeading)
         
     }
