@@ -32,3 +32,4 @@ based on movements
 - On login use the following credentials
 - Campaign_id : ```AAA```
 - Phonenumber : ```055```
+- Verification : ```000```
