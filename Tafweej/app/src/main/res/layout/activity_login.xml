@@ -2,10 +2,12 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/wall_background"
     android:layout_width="match_parent"
 
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,16 +21,20 @@
             android:layout_gravity="center_horizontal|center_vertical|center"
             android:layout_marginTop="100dp"
             android:alpha="1"
-            app:srcCompat="@drawable/tafweej_t" />
+            app:srcCompat="@drawable/tafweej_icon" />
+
         <EditText
             android:id="@+id/editTextCampaignID"
             android:layout_width="300dp"
-            android:layout_height="wrap_content"
+            android:layout_height="40dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_gravity="center_horizontal|center_vertical|center"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="50dp"
+            android:background="@drawable/borders"
+            android:backgroundTint="@color/white"
+
             android:ems="10"
             android:gravity="center"
             android:hint="@string/enter_campaign_id"
@@ -42,11 +48,13 @@
         <EditText
             android:id="@+id/editTextPhoneNumber"
             android:layout_width="300dp"
-            android:layout_height="wrap_content"
+            android:layout_height="40dp"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_gravity="center_horizontal|center_vertical|center"
             android:layout_marginBottom="10dp"
+            android:background="@drawable/borders"
+            android:backgroundTint="@color/white"
             android:ems="10"
             android:gravity="center"
             android:hint="@string/enter_phone_number"
@@ -64,10 +72,10 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
-            android:background="@color/green"
             android:layout_gravity="center_horizontal|center_vertical|center"
+            android:background="@color/green"
             android:text="Sign Up"
-            android:textColor="@color/white"
+            android:textColor="@color/white_smoke"
             android:textSize="18sp"
             android:textStyle="bold" />
 

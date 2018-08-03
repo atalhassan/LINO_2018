@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     Firebase mRef;
     Firebase  child;
     HashMap<Object,Object> mLocation;
-    String numberOfHaj ="Number of Haj is ";
+    String numberOfHaj ="Number of pilgrims: ";
     TextView textViewCrowdId;
     HashMap<Object,Object> crowdData;
 
@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         buttonStop = (Button) findViewById(R.id.buttonStop);
         textViewCrowdId = (TextView) findViewById(R.id.textViewCrowdId);
         setSeekBar();
+        seekBar.setMax(300);
 
 
         mLocation = new HashMap<>();
@@ -68,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         mRef = new Firebase("https://lino2018-ad380.firebaseio.com/");
         Logging.write ("Crowd_id==== "+tafweej.getCrowd_id());
         child = mRef.child("Crowd").child(tafweej.getCrowd_id());
-        textViewCrowdId.setText("Crowd ID : "+tafweej.getCrowd_id());
+        textViewCrowdId.setText(tafweej.getCrowd_id());
 
     }
 
@@ -76,12 +77,12 @@ public class MainActivity extends AppCompatActivity {
     public void setSeekBar(){
 
         textViewNumberofHaj.setText(numberOfHaj +seekBar.getProgress() +"/"+ seekBar.getMax());
-        seekBar.setMax(300);
         seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
 
             @Override
             public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
                 progressValue = i;
+
                 textViewNumberofHaj.setText(numberOfHaj +progressValue +"/"+ seekBar.getMax());
 
             }
@@ -89,10 +90,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
 
+
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
+
                 textViewNumberofHaj.setText(numberOfHaj +progressValue +"/"+ seekBar.getMax());
 
 

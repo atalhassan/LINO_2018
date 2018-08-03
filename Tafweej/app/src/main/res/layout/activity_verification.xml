@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@drawable/wall_background"
     android:layout_height="match_parent"
     tools:context=".VerificationActivity">
 
@@ -15,22 +16,24 @@
 
        <ImageView
            android:id="@+id/imageView"
-           android:layout_width="100dp"
-           android:layout_height="100dp"
+           android:layout_width="120dp"
+           android:layout_height="120dp"
            android:layout_gravity="center_horizontal|center_vertical|center"
            android:layout_marginTop="100dp"
            android:alpha="1"
-           app:srcCompat="@drawable/tafweej_t" />
+           app:srcCompat="@drawable/tafweej_icon" />
 
        <EditText
            android:id="@+id/editTextVerificationId"
            android:layout_width="300dp"
-           android:layout_height="wrap_content"
+           android:layout_height="40dp"
            android:layout_alignParentTop="true"
            android:layout_centerHorizontal="true"
            android:layout_gravity="center_horizontal|center_vertical|center"
            android:layout_marginBottom="10dp"
-           android:layout_marginTop="100dp"
+           android:layout_marginTop="80dp"
+           android:background="@drawable/borders"
+           android:backgroundTint="@color/white"
            android:ems="10"
            android:gravity="center"
            android:hint="@string/enter_verification_number"
@@ -38,19 +41,19 @@
            android:textStyle="bold"
            android:theme="@style/MyEditText" />
 
-    <Button
-        android:id="@+id/buttonVerify"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="100dp"
-        android:layout_gravity="center_horizontal|center_vertical|center"
-        android:background="@color/green"
-        android:text="@string/verify"
-        android:textColor="@color/white"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+       <Button
+           android:id="@+id/buttonVerify"
+           android:layout_width="300dp"
+           android:layout_height="40dp"
+           android:layout_alignParentBottom="true"
+           android:layout_centerHorizontal="true"
+           android:layout_gravity="center_horizontal|center_vertical|center"
+           android:layout_marginBottom="100dp"
+           android:background="@color/green"
+           android:text="@string/verify"
+           android:textColor="@color/white"
+           android:textSize="18sp"
+           android:textStyle="bold" />
 
 
    </LinearLayout>
