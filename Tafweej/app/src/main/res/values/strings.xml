@@ -10,4 +10,8 @@
     <string name="wrong_verification">wrong verification</string>
     <string name="wrong_credentials">wrong credentials</string>
     <string name="enable_gps_wifi">Please Enable Location</string>
+    <string name="error_perms">This permission is important for the function of this app</string>
+    <string name="error_sign_up">Wrong campaign id or phone Number</string>
+
+
 </resources>
