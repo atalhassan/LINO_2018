@@ -17,4 +17,13 @@ public class Helper {
         Logging.write("Size of id -> "+randomNumber);
         return randomNumber;
     }
+
+
+    public static String generateRandomChar(){
+
+
+        Random r = new Random();
+        char c = (char)(r.nextInt(26) + 'A');
+        return String.valueOf(c);
+    }
 }

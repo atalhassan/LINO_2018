@@ -2,53 +2,77 @@ package com.google.tafweej.tafweej;
 
 public class Tafweej {
 
-    private int crowd_id;
-    private int campaign_id;
-    private double lat;
-    private double lon;
-    private double crowd_contacts;
+    private String crowd_id;
+    private String campaign_id;
+    private String lat;
+    private String lon;
+    private String campaign_contacts;
 
 
-    public double getCrowd_contacts() {
-        return crowd_contacts;
+
+    private String Status;
+
+
+
+    private static Tafweej INSTANCE = null;
+    // other instance variables can be here
+    private Tafweej() {};
+
+    public static Tafweej getInstance() {
+        if (INSTANCE == null) {
+            INSTANCE = new Tafweej();
+        }
+        return(INSTANCE);
     }
 
-    public void setCrowd_contacts(double crowd_contacts) {
-        this.crowd_contacts = crowd_contacts;
+    public String getCampaign_contacts() {
+        return campaign_contacts;
+    }
+
+    public void setCampaign_contacts(String campaign_contacts) {
+        this.campaign_contacts = campaign_contacts;
+
     }
 
 
-    public int getCrowd_id() {
+    public String getCrowd_id() {
         return crowd_id;
     }
 
-    public void setCrowd_id(int crowd_id) {
+    public void setCrowd_id(String crowd_id) {
         this.crowd_id = crowd_id;
     }
 
-    public int getCampaign_id() {
+    public String getCampaign_id() {
         return campaign_id;
     }
 
-    public void setCampaign_id(int campaign_id) {
+    public void setCampaign_id(String campaign_id) {
         this.campaign_id = campaign_id;
     }
 
-    public double getLat() {
+    public String getLat() {
         return lat;
     }
 
-    public void setLat(double lat) {
+    public void setLat(String lat) {
         this.lat = lat;
     }
 
-    public double getLon() {
+    public String getLon() {
         return lon;
     }
 
-    public void setLon(double lon) {
+    public void setLon(String lon) {
         this.lon = lon;
     }
 
+    public String getStatus() {
+        return Status;
+    }
+
+    public void setStatus(String status) {
+        Status = status;
+    }
 
 }

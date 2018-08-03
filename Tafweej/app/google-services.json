@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "23249420192",
+    "firebase_url": "https://lino2018-ad380.firebaseio.com",
+    "project_id": "lino2018-ad380",
+    "storage_bucket": "lino2018-ad380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23249420192:android:349f9a3ba4b888d3",
+        "android_client_info": {
+          "package_name": "com.google.tafweej.tafweej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23249420192-2ahdt7l2mnt7n2ipj0auqf5ehaj29dg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQwgCTuWRVrwii7zZjR6hcwu9q7lm6Hs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
