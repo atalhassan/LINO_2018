@@ -84,6 +84,9 @@ class App extends Component {
         <span className="checkmark"></span>
       </label>
 
+
+      <img className='legend' src='legend.png'/>
+
       <img className='logo' src='tafweej_icon.png'/>
 
       </div>
