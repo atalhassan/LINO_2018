@@ -38,6 +38,7 @@ class MyMarker extends Component {
   componentDidMount() {
 
 
+    this.setState({...this.props})
 
     // Fetch all Mfwejeen from
     db.fetchMfwejeen().child(this.props.campaign_id).on('child_changed', (snapshot) => {
@@ -61,21 +62,16 @@ class MyMarker extends Component {
         this.setState({"crowd":  {...this.state.crowd, "location": crowd, "lost": false, "status":"Active"}})
         // this.setState({"crowd": {"location": crowd}})
       } else if  (!isNaN(crowd))  {
-        this.setState((prevState, props) => {
-          return {"crowd": {...prevState.crowd , "numberOfPeople": crowd}};
-        });
+        this.setState({"crowd": {...this.state.crowd , "numberOfPeople": crowd}});
         // this.setState({"crowd": {"numberOfPeople": crowd}})
       } else if (crowd) {
-        console.log(crowd);
-        this.setState((prevState, props) => {
+        clearInterval(this.state.intervalId);
+        if (crowd === 'inActive') {
           clearInterval(this.state.intervalId);
-          if (crowd === 'inActive') {
-            clearInterval(this.state.intervalId);
-          } else {
-            this.state.intervalId = setInterval(this.timer, 10000);
-          }
-          return {"crowd": {...prevState.crowd , "status": crowd}};
-        });
+        } else {
+          this.state.intervalId = setInterval(this.timer, 10000);
+        }
+        this.setState( {"crowd": {...this.state.crowd , "status": crowd}});
       }
 
   });
@@ -120,9 +116,17 @@ class MyMarker extends Component {
       scale =  Math.min(3 +  (parseInt(this.state.crowd.numberOfPeople) / 30),15)
     }
 
+
     if (status === 'Terminated') {
       return (<div></div>);
     }
+    if (status === 'Active' && !this.props.showActive && !lost) {
+      return (<div></div>);
+    } else if (status === 'inActive' && !this.props.showInActive ) {
+      return (<div></div>);
+    } else if (lost && !this.props.showLost ) {
+      return (<div></div>);
+    } 
     if (this.state.crowd.location === undefined || this.state.crowd.location.lat === undefined) {
       return (<div></div>);
     }
@@ -146,10 +150,12 @@ class MyMarker extends Component {
           <InfoWindow  onCloseClick={this.onToggleOpen}>
               <div className="InfoWindow">
               <strong>Campaign id: </strong>{this.props.crowd.campaign_id}<br></br>
+              <strong>Crowd ID: </strong>{this.props.campaign_id}<br></br>
               <strong>Name: </strong>{this.state.name}<br></br>
               <strong>Email: </strong><a href="mail:{this.state.email}">{this.state.email}</a><br></br>
               <strong>Phone: </strong><a href="tel:{this.state.phone}">{this.state.phone}</a><br></br>
               <strong>Number Of People: </strong>{this.state.crowd.numberOfPeople}<br></br>
+
               </div>
           </InfoWindow>}
       </Marker>
