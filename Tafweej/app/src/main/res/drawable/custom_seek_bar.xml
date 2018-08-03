@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <gradient
+      android:endColor="@color/white"
+      android:startColor="@color/white" />
+  <size
+      android:height="1dp"
+      android:width="40dp"/>
+
+
+
+
+</shape>
+

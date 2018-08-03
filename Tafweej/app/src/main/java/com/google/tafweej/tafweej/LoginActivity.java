@@ -10,6 +10,7 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -49,6 +50,9 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         Button buttonSignUp = (Button) findViewById(R.id.buttonSignUp);
+
+
+
 
         editTextCampaignId = (EditText) findViewById(R.id.editTextCampaignID);
         editTextContactNumber = (EditText) findViewById(R.id.editTextPhoneNumber);
