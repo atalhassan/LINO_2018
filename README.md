@@ -3,14 +3,23 @@
 
 ## Haj Web
 
+This is the Web app built with ReactJS[http://reactjs.org] that receives dispatcher's location
+based on movements and display them on a map. The map can be filtered base on certain categories
+
 ### To Run
 - install dependencies ``` npm install  ```
 - run ``` npm start  ```
 
 ## Haj App
 
+This is the iOS app built with swift[https://developer.apple.com/swift/] that sends dispatcher's location
+based on movements
+
 ### To Run
 - install dependencies ``` pod install  ```
 
 
 ## Tafweej
+
+This is the Android app that sends dispatcher's location
+based on movements
