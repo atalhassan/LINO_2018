@@ -18,8 +18,17 @@ based on movements
 ### To Run
 - install dependencies ``` pod install  ```
 
+### To Use
+- On login use the following credentials
+- Campaign_id : ```campaign_id```
+- Phonenumber : ```05599222105```
 
 ## Tafweej
 
 This is the Android app that sends dispatcher's location
 based on movements
+
+### To Use
+- On login use the following credentials
+- Campaign_id : ```AAA```
+- Phonenumber : ```055```
